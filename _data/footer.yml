@@ -23,6 +23,15 @@ panels:
         url: https://founder.portussophia.com/
         external: true
 
+  - label: Legal
+    links:
+      - label: Terms of Use
+        url: /terms/
+      - label: Privacy Notice
+        url: /privacy/
+      - label: Rights and Use
+        url: /RIGHTS.md
+
   - label: Contact
     links:
       - label: founder@portussophia.com
