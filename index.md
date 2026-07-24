@@ -40,16 +40,109 @@ A reader may give an agent this URL and ask it to establish the available source
 
 Suggested prompt:
 
-```text
-Read https://orientation.portussophia.com and the PS-BIOS-001, canon,
+<div class="orientation-prompt" data-orientation-prompt>
+  <div class="orientation-prompt__controls">
+    <button class="orientation-prompt__copy" type="button" data-copy-orientation-prompt aria-describedby="orientation-copy-status">
+      Copy prompt
+    </button>
+  </div>
+  <textarea id="orientation-agent-prompt" class="orientation-prompt__text" rows="10" readonly spellcheck="false" aria-label="Suggested PortusSophia orientation prompt">Read https://orientation.portussophia.com and the PS-BIOS-001, canon,
 and governance sources available through it.
 
 Before evaluating PortusSophia™, state which sources you successfully
 accessed, distinguish source text from your own inference, preserve each
 document's declared standing, and identify any unavailable or unresolved
 material. Adopt the resulting orientation without claiming PortusSophia
-authority, stewardship, or agreement.
-```
+authority, stewardship, or agreement.</textarea>
+  <p id="orientation-copy-status" class="orientation-prompt__status" aria-live="polite"></p>
+</div>
+
+<style>
+  .orientation-prompt {
+    margin: 1rem 0 1.5rem;
+  }
+
+  .orientation-prompt__controls {
+    display: flex;
+    justify-content: flex-end;
+    margin-bottom: 0.45rem;
+  }
+
+  .orientation-prompt__copy {
+    border: 1px solid currentColor;
+    border-radius: 0.35rem;
+    background: transparent;
+    color: inherit;
+    cursor: pointer;
+    font: inherit;
+    font-weight: 600;
+    padding: 0.45rem 0.8rem;
+  }
+
+  .orientation-prompt__copy:hover,
+  .orientation-prompt__copy:focus-visible {
+    background: rgba(127, 127, 127, 0.14);
+  }
+
+  .orientation-prompt__text {
+    box-sizing: border-box;
+    display: block;
+    width: 100%;
+    min-height: 15rem;
+    resize: vertical;
+    border: 1px solid rgba(127, 127, 127, 0.65);
+    border-radius: 0.4rem;
+    background: rgba(127, 127, 127, 0.08);
+    color: inherit;
+    font-family: ui-monospace, SFMono-Regular, Consolas, "Liberation Mono", monospace;
+    font-size: 0.95rem;
+    line-height: 1.55;
+    padding: 1rem;
+  }
+
+  .orientation-prompt__status {
+    min-height: 1.4em;
+    margin: 0.35rem 0 0;
+    font-size: 0.9rem;
+  }
+</style>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    var container = document.querySelector("[data-orientation-prompt]");
+    if (!container) return;
+
+    var button = container.querySelector("[data-copy-orientation-prompt]");
+    var prompt = container.querySelector("textarea");
+    var status = container.querySelector(".orientation-prompt__status");
+
+    function reportCopied() {
+      button.textContent = "Copied";
+      status.textContent = "Prompt copied to the clipboard.";
+      window.setTimeout(function () {
+        button.textContent = "Copy prompt";
+        status.textContent = "";
+      }, 2200);
+    }
+
+    function fallbackCopy() {
+      prompt.focus();
+      prompt.select();
+      prompt.setSelectionRange(0, prompt.value.length);
+      var copied = document.execCommand("copy");
+      window.getSelection().removeAllRanges();
+      if (copied) reportCopied();
+    }
+
+    button.addEventListener("click", function () {
+      if (navigator.clipboard && window.isSecureContext) {
+        navigator.clipboard.writeText(prompt.value).then(reportCopied).catch(fallbackCopy);
+      } else {
+        fallbackCopy();
+      }
+    });
+  });
+</script>
 
 To request reorientation later, provide the URL again and ask the agent to reread the current public corpus before continuing.
 
