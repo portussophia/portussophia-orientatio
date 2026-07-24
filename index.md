@@ -18,27 +18,9 @@ Its purpose is narrower: to make the declared sources available through one stab
 
 PortusSophia describes an interface rather than a destination. This site provides that interface in a form that a person or an AI language model can read.
 
-## What this surface will carry
-
-### The Declared Interface
-
-PS-BIOS-001 establishes the orientation and boundaries through which the architecture presents itself. It binds the architecture before later materials speak.
-
-[Read PS-BIOS-001 on Zenodo →](https://zenodo.org/records/21229870)
-
-### Canon
-
-Canonical materials will be presented with their declared standing, provenance, version, and applicable rights. Availability does not erase those distinctions.
-
-### Governance
-
-Public governance materials will state how writing, citation, review, status, and related practices are bounded. Governance records handling and standing; it does not manufacture truth.
-
 ## Orient an agent
 
-A reader may give an agent this URL and ask it to establish the available source boundary before proceeding.
-
-Suggested prompt:
+Give an agent this prompt to establish the available source boundary before proceeding:
 
 <div class="orientation-prompt" data-orientation-prompt>
   <div class="orientation-prompt__controls">
@@ -145,6 +127,22 @@ authority, stewardship, or agreement.</textarea>
 </script>
 
 To request reorientation later, provide the URL again and ask the agent to reread the current public corpus before continuing.
+
+## What this surface will carry
+
+### The Declared Interface
+
+PS-BIOS-001 establishes the orientation and boundaries through which the architecture presents itself. It binds the architecture before later materials speak.
+
+[Read PS-BIOS-001 on Zenodo →](https://zenodo.org/records/21229870)
+
+### Canon
+
+Canonical materials will be presented with their declared standing, provenance, version, and applicable rights. Availability does not erase those distinctions.
+
+### Governance
+
+Public governance materials will state how writing, citation, review, status, and related practices are bounded. Governance records handling and standing; it does not manufacture truth.
 
 ## What orientation does not do
 
