@@ -1,7 +1,6 @@
 primary:
-  - label: PS-BIOS-001 ↗
-    url: https://zenodo.org/records/21229870
-    external: true
+  - label: PS-BIOS-001
+    url: /structura/PS-BIOS-001/
 
   - label: Public PortusSophia ↗
     url: https://public.portussophia.com/
