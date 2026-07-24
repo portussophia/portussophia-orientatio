@@ -3,7 +3,7 @@ layout: shoreline-masthead
 title: Terms of Use
 eyebrow: PortusSophia™ Orientation
 intro: Terms governing access to and use of this public orientation website.
-description: Terms of Use for orientation.portussophia.com, operated by PortusSophia, LLC.
+description: Terms of Use for orientatio.portussophia.com, operated by PortusSophia, LLC.
 permalink: /terms/
 ---
 
@@ -12,7 +12,7 @@ permalink: /terms/
 **Effective date:** July 24, 2026  
 **Version:** 0.1
 
-These Terms of Use govern access to and use of **orientation.portussophia.com** and its associated public repository (together, the **Site**).
+These Terms of Use govern access to and use of **orientatio.portussophia.com** and its associated public repository (together, the **Site**).
 
 The Site is operated by **PortusSophia, LLC**, a Maryland limited liability company. **PortusSophia™** names a candidate field architecture presented through the Site; it is not the legal entity operating the Site.
 
