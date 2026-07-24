@@ -6,7 +6,7 @@ This file states limited permissions specific to the public orientation reposito
 
 ## Purpose
 
-This repository contains the source for `orientation.portussophia.com`.
+This repository contains the source for `orientatio.portussophia.com`.
 
 It exists to provide a stable, versioned public surface for PS-BIOS-001, materials of declared canonical standing, and public governance documents. It also supports bounded source-grounded orientation of an AI language model at a reader’s request.
 
