@@ -3,7 +3,7 @@ layout: shoreline-masthead
 title: Privacy Notice
 eyebrow: PortusSophia™ Orientation
 intro: How technical and correspondence information may be processed when this public site is used.
-description: Privacy Notice for orientation.portussophia.com, operated by PortusSophia, LLC.
+description: Privacy Notice for orientatio.portussophia.com, operated by PortusSophia, LLC.
 permalink: /privacy/
 ---
 
@@ -12,7 +12,7 @@ permalink: /privacy/
 **Effective date:** July 24, 2026  
 **Version:** 0.1
 
-This Privacy Notice explains how information may be processed when you visit **orientation.portussophia.com** or contact **PortusSophia, LLC** about the Site.
+This Privacy Notice explains how information may be processed when you visit **orientatio.portussophia.com** or contact **PortusSophia, LLC** about the Site.
 
 The Site is operated by **PortusSophia, LLC**, a Maryland limited liability company. **PortusSophia™** names the candidate field architecture presented through the Site; it is not the entity processing business correspondence or operating the Site.
 
@@ -20,7 +20,7 @@ The Site is operated by **PortusSophia, LLC**, a Maryland limited liability comp
 
 The Site is a public informational and source-orientation surface. It currently provides no user accounts, payments, private workspaces, uploads, comments, or public submission forms.
 
-PortusSophia, LLC does not presently install first-party advertising trackers or first-party analytics tools on the Site and does not intentionally set first-party advertising or profiling cookies.
+PortusSophia, LLC does not intentionally collect visitor information through the Site, does not presently install first-party advertising trackers or first-party analytics tools, and does not intentionally set first-party advertising or profiling cookies.
 
 ## 2. Information processed through ordinary site access
 
