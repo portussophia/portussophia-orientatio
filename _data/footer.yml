@@ -1,0 +1,35 @@
+refrain: Here and Now!
+
+identity:
+  name: PortusSophia™ Orientation
+  role: Declared interface · Public source corpus
+
+panels:
+  - label: Corpus
+    links:
+      - label: PS-BIOS-001
+        url: https://zenodo.org/records/21229870
+        external: true
+      - label: Repository
+        url: https://github.com/portussophia/portussophia-orientatio
+        external: true
+
+  - label: Programme
+    links:
+      - label: Public interface
+        url: https://public.portussophia.com/
+        external: true
+      - label: Founder
+        url: https://founder.portussophia.com/
+        external: true
+
+  - label: Contact
+    links:
+      - label: founder@portussophia.com
+        url: mailto:founder@portussophia.com
+
+rights:
+  year: 2026
+  owner: PortusSophia, LLC
+  label: Rights and Use
+  url: /RIGHTS.md

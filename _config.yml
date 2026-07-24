@@ -1,0 +1,39 @@
+title: "PortusSophia™ Orientation"
+description: "A public, versioned orientation surface for PS-BIOS-001, PortusSophia™ canon, and governance, supporting source-grounded LLM orientation without conferring authority."
+url: "https://orientation.portussophia.com"
+baseurl: ""
+lang: "en-US"
+
+portussophia:
+  template_version: "1.0.0"
+  asset_origin: "https://assets.portussophia.com"
+  asset_version: "20260719-6"
+
+  header_label: "PortusSophia™ Orientation"
+  header_role: "The Declared Interface"
+
+  identity_logo_url: "https://assets.portussophia.com/img/site/logo.png"
+  identity_logo_alt: "PortusSophia programme mark"
+  identity_title: "PortusSophia™ Orientation"
+  identity_declaration: "A public source surface for declared orientation, canon, and governance."
+
+  rights_url: "/RIGHTS.md"
+
+markdown: kramdown
+permalink: pretty
+
+sass:
+  style: compressed
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-feed
+
+github:
+  is_project_page: false
+
+exclude:
+  - README.md
+  - LICENSE.md
+  - Gemfile
+  - Gemfile.lock

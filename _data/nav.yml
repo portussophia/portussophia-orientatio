@@ -1,0 +1,12 @@
+primary:
+  - label: PS-BIOS-001 ↗
+    url: https://zenodo.org/records/21229870
+    external: true
+
+  - label: Public PortusSophia ↗
+    url: https://public.portussophia.com/
+    external: true
+
+  - label: Repository ↗
+    url: https://github.com/portussophia/portussophia-orientatio
+    external: true
