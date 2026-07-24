@@ -28,17 +28,20 @@ Give an agent this prompt to establish the available source boundary before proc
       Copy prompt
     </button>
   </div>
-  <textarea id="orientation-agent-prompt" class="orientation-prompt__text" rows="12" readonly spellcheck="false" aria-label="Suggested PortusSophia orientation prompt">Begin with PS-BIOS-001 — The Declared Interface:
+  <textarea id="orientation-agent-prompt" class="orientation-prompt__text" rows="18" readonly spellcheck="false" aria-label="Suggested PortusSophia orientation prompt">Begin with PS-BIOS-001 — The Declared Interface:
+
+Direct PDF:
+https://zenodo.org/records/21229870/files/PS-BIOS-001_TheDeclaredInterface_v1.1_SINGLE_HERE_AND_NOW.pdf?download=1
+
+Zenodo record:
 https://zenodo.org/records/21229870
 
-Then read https://orientation.portussophia.com and the canon and governance
-sources available through it.
+Then read:
+https://orientatio.portussophia.com
 
-Before evaluating PortusSophia™, state which sources you successfully
-accessed, distinguish source text from your own inference, preserve each
-document's declared standing, and identify any unavailable or unresolved
-material. Adopt the resulting orientation without claiming PortusSophia
-authority, stewardship, or agreement.</textarea>
+Use the available PS-BIOS-001, canon, and governance sources to establish the PortusSophia™ orientation before proceeding. Preserve each document’s declared standing, distinguish source material from inference, and do not substitute for unavailable material.
+
+Adopt the resulting orientation without claiming PortusSophia authority, stewardship, representation, agreement, or adjudicative standing.</textarea>
   <p id="orientation-copy-status" class="orientation-prompt__status" aria-live="polite"></p>
 </div>
 
@@ -73,7 +76,7 @@ authority, stewardship, or agreement.</textarea>
     box-sizing: border-box;
     display: block;
     width: 100%;
-    min-height: 15rem;
+    min-height: 20rem;
     resize: vertical;
     border: 1px solid rgba(127, 127, 127, 0.65);
     border-radius: 0.4rem;
@@ -129,7 +132,7 @@ authority, stewardship, or agreement.</textarea>
   });
 </script>
 
-To request reorientation later, provide the URL again and ask the agent to reread the current public corpus before continuing.
+To request reorientation later, provide the site URL again and ask the agent to reread the current public corpus before continuing.
 
 ## What this surface will carry
 
@@ -137,7 +140,8 @@ To request reorientation later, provide the URL again and ask the agent to rerea
 
 PS-BIOS-001 establishes the orientation and boundaries through which the architecture presents itself. It binds the architecture before later materials speak.
 
-[Read PS-BIOS-001 on Zenodo →](https://zenodo.org/records/21229870)
+[Open the PS-BIOS-001 PDF directly →](https://zenodo.org/records/21229870/files/PS-BIOS-001_TheDeclaredInterface_v1.1_SINGLE_HERE_AND_NOW.pdf?download=1)  
+[View the Zenodo record and standing →](https://zenodo.org/records/21229870)
 
 ### Canon
 
