@@ -28,8 +28,11 @@ Give an agent this prompt to establish the available source boundary before proc
       Copy prompt
     </button>
   </div>
-  <textarea id="orientation-agent-prompt" class="orientation-prompt__text" rows="10" readonly spellcheck="false" aria-label="Suggested PortusSophia orientation prompt">Read https://orientation.portussophia.com and the PS-BIOS-001, canon,
-and governance sources available through it.
+  <textarea id="orientation-agent-prompt" class="orientation-prompt__text" rows="12" readonly spellcheck="false" aria-label="Suggested PortusSophia orientation prompt">Begin with PS-BIOS-001 — The Declared Interface:
+https://zenodo.org/records/21229870
+
+Then read https://orientation.portussophia.com and the canon and governance
+sources available through it.
 
 Before evaluating PortusSophia™, state which sources you successfully
 accessed, distinguish source text from your own inference, preserve each
