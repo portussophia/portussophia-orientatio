@@ -8,8 +8,7 @@ panels:
   - label: Corpus
     links:
       - label: PS-BIOS-001
-        url: https://zenodo.org/records/21229870
-        external: true
+        url: /structura/PS-BIOS-001/
       - label: Repository
         url: https://github.com/portussophia/portussophia-orientatio
         external: true
