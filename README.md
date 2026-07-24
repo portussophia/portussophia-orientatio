@@ -2,7 +2,7 @@
 
 **Public orientation corpus for PS-BIOS-001, PortusSophia™ canon, and governance—supporting source-grounded LLM orientation without conferring authority or adjudicative standing.**
 
-This repository contains the source for [orientation.portussophia.com](https://orientation.portussophia.com).
+This repository contains the source for [orientatio.portussophia.com](https://orientatio.portussophia.com).
 
 The site is being established as a public, versioned point of entry through which a reader or an AI language model may encounter PortusSophia™ from its declared orientation rather than from inference, summary, or self-authorizing interpretation.
 
@@ -37,7 +37,8 @@ The immediate function is orientation: source access, declared boundaries, statu
 
 The foundational declaration is publicly archived as:
 
-- [PS-BIOS-001 — *The Declared Interface*](https://zenodo.org/records/21229870)
+- [PS-BIOS-001 — *The Declared Interface* — direct PDF](https://zenodo.org/records/21229870/files/PS-BIOS-001_TheDeclaredInterface_v1.1_SINGLE_HERE_AND_NOW.pdf?download=1)
+- [PS-BIOS-001 — Zenodo record and standing](https://zenodo.org/records/21229870)
 
 The local BIOS, canon, and governance corpus will be added through reviewed repository changes.
 
@@ -65,7 +66,7 @@ Then open `http://127.0.0.1:4000`.
 The intended custom domain is:
 
 ```text
-orientation.portussophia.com
+orientatio.portussophia.com
 ```
 
 GitHub Pages should publish from the `main` branch at the repository root after the repository is made publicly accessible and the domain DNS record is configured.
@@ -74,7 +75,7 @@ GitHub Pages should publish from the `main` branch at the repository root after 
 
 Copyright © 2026 PortusSophia, LLC. All rights reserved.
 
-See [`RIGHTS.md`](RIGHTS.md) for the default rights posture and [`LICENSE.md`](LICENSE.md) for the limited public permissions specific to this orientation surface.
+See [`RIGHTS.md`](RIGHTS.md) for the default rights posture, [`LICENSE.md`](LICENSE.md) for the limited public permissions specific to this orientation surface, [`TERMS.md`](TERMS.md) for the Terms of Use, and [`PRIVACY.md`](PRIVACY.md) for the Privacy Notice.
 
 ---
 
