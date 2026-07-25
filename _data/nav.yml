@@ -1,9 +1,21 @@
 primary:
+  - label: Home
+    url: /
+
   - label: PS-BIOS-001
     url: /structura/PS-BIOS-001/
+    separator_after: true
 
   - label: Public PortusSophia ↗
     url: https://public.portussophia.com/
+    external: true
+
+  - label: PortusHumanitas™ ↗
+    url: https://humanitas.portussophia.com/
+    external: true
+
+  - label: Founder ↗
+    url: https://founder.portussophia.com/
     external: true
 
   - label: Repository ↗
