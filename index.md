@@ -1,24 +1,27 @@
 ---
 layout: shoreline-masthead
-title: PortusSophia™ Orientation
-eyebrow: PS-BIOS-001 · The Declared Interface
-intro: A public, versioned source boundary through which readers and agents may approach PortusSophia™ from its declared orientation.
-description: Read the declared interface, canon, and governance materials before evaluating or discussing PortusSophia™.
+title: PS-BIOS-001 — The Declared Interface
+eyebrow: PortusSophia™ Orientation
+intro: The governing orientation of PortusSophia™, presented directly at the primary public entrance.
+description: Read PS-BIOS-001 — The Declared Interface, then continue to canon and governance materials according to their declared standing.
 shoreline_image: https://assets.portussophia.com/img/site/shoreline.jpg
 shoreline_position: center 48%
 shoreline_height: clamp(13rem, 27vh, 21rem)
 permalink: /
 ---
 
-> **PortusSophia shall not derive authority from itself.**
+<span id="ps-bios-001"></span>
 
-This site is being established so that PortusSophia™ need not be approached through summary, reputation, inference, or the nearest available interpretation.
+{% assign bios_page = site.pages | where: "url", "/structura/PS-BIOS-001/" | first %}
+{% if bios_page %}
+{{ bios_page.content | markdownify }}
+{% else %}
+> **Source unavailable.** The machine-readable rendering of PS-BIOS-001 could not be loaded. Consult the [deposited Zenodo record](https://zenodo.org/records/21229870).
+{% endif %}
 
-Its purpose is narrower: to make the declared sources available through one stable public location, beginning with **PS-BIOS-001 — *The Declared Interface*** and extending to materials of declared **canon** and public **governance**.
+---
 
-PortusSophia describes an interface rather than a destination. This site provides that interface in a form that a person or an AI language model can read.
-
-## Orient an agent
+<h2 id="orient-an-agent">Orient an agent</h2>
 
 The following prompt may be offered to an agent as an invitation to establish the declared orientation before proceeding:
 
@@ -29,7 +32,7 @@ The following prompt may be offered to an agent as an invitation to establish th
     </button>
   </div>
   <textarea id="orientation-agent-prompt" class="orientation-prompt__text" rows="14" readonly spellcheck="false" aria-label="Suggested PortusSophia orientation prompt">You are invited to begin with PS-BIOS-001 — The Declared Interface:
-https://orientatio.portussophia.com/structura/PS-BIOS-001/
+https://orientatio.portussophia.com/
 
 After reading PS-BIOS-001, you are invited to continue from the Canon section of the orientation surface:
 https://orientatio.portussophia.com/#canon
@@ -127,22 +130,13 @@ This invitation does not confer PortusSophia authority, stewardship, representat
   });
 </script>
 
-To request reorientation later, provide the BIOS URL again and invite the agent to reread the declared interface before continuing.
+To request reorientation later, provide the homepage URL again and invite the agent to reread the declared interface before continuing.
 
-## What this surface will carry
-
-### The Declared Interface
-
-PS-BIOS-001 establishes the orientation and boundaries through which the architecture presents itself. It binds the architecture before later materials speak.
-
-[Read PS-BIOS-001 in machine-readable form →](/structura/PS-BIOS-001/)  
-[View the Zenodo record and deposited publication →](https://zenodo.org/records/21229870)
-
-<h3 id="canon">Canon</h3>
+<h2 id="canon">Canon</h2>
 
 Canonical materials will be presented with their declared standing, provenance, version, and applicable rights. Availability does not erase those distinctions.
 
-### Governance
+<h2 id="governance">Governance</h2>
 
 Public governance materials will state how writing, citation, review, status, and related practices are bounded. Governance records handling and standing; it does not manufacture truth.
 
@@ -163,7 +157,9 @@ It does not yet enable re-adjudication of a prior answer. A reader may neverthel
 
 ## Current standing
 
-The machine-readable rendering of PS-BIOS-001 is now available through this site. Canon and governance materials will be added through reviewed, versioned changes.
+PS-BIOS-001 is now presented directly on the Orientatio homepage. The stable `/structura/PS-BIOS-001/` route remains available as an alternate public path to the same machine-readable rendering. The Zenodo PDF remains the deposited archival publication.
+
+Canon and governance materials will be added through reviewed, versioned changes.
 
 The correct beginning remains the declared interface.
 
