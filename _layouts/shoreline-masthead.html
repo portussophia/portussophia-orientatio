@@ -1,7 +1,11 @@
 ---
 layout: default
 ---
-<article class="shoreline-masthead-layout">
+{%- assign is_bios_surface = false -%}
+{%- if page.url == '/' or page.url == '/structura/PS-BIOS-001/' -%}
+  {%- assign is_bios_surface = true -%}
+{%- endif -%}
+<article class="shoreline-masthead-layout{% if is_bios_surface %} shoreline-masthead-layout--bios{% endif %}">
   <section class="shoreline-page-opening ps-sailcloth">
     <div class="shell shoreline-opening-inner">
       {%- if page.show_header != false and page.title -%}
@@ -28,3 +32,17 @@ layout: default
     </div>
   </section>
 </article>
+
+{%- if is_bios_surface -%}
+<style>
+  /* The masthead already carries the BIOS title and introduction. The shared
+     machine-readable body retains its source heading, but it is suppressed at
+     these two rendered entrances to prevent duplicate visible titles. */
+  .shoreline-masthead-layout--bios .shoreline-page-content > h1:first-child,
+  .shoreline-masthead-layout--bios .shoreline-page-content > h1:first-child + p,
+  .shoreline-masthead-layout--bios .shoreline-page-content > #ps-bios-001 + h1,
+  .shoreline-masthead-layout--bios .shoreline-page-content > #ps-bios-001 + h1 + p {
+    display: none;
+  }
+</style>
+{%- endif -%}
