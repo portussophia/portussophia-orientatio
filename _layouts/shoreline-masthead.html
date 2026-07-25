@@ -35,13 +35,11 @@ layout: default
 
 {%- if is_bios_surface -%}
 <style>
-  /* The masthead already carries the BIOS title and introduction. The shared
-     machine-readable body retains its source heading, but it is suppressed at
-     these two rendered entrances to prevent duplicate visible titles. */
-  .shoreline-masthead-layout--bios .shoreline-page-content > h1:first-child,
-  .shoreline-masthead-layout--bios .shoreline-page-content > h1:first-child + p,
-  .shoreline-masthead-layout--bios .shoreline-page-content > #ps-bios-001 + h1,
-  .shoreline-masthead-layout--bios .shoreline-page-content > #ps-bios-001 + h1 + p {
+  /* The masthead is the single visible BIOS title on both public entrances.
+     The shared machine-readable body retains its source heading for reuse,
+     but any rendered copy of that heading and its subtitle is suppressed. */
+  .shoreline-masthead-layout--bios .shoreline-page-content h1,
+  .shoreline-masthead-layout--bios .shoreline-page-content h1 + p {
     display: none;
   }
 </style>
