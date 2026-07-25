@@ -4,6 +4,9 @@ primary:
 
   - label: PS-BIOS-001
     url: /#ps-bios-001
+
+  - label: Across Regimes
+    url: /structura/PS-BIOS-001/across-regimes/
     separator_after: true
 
   - label: Public PortusSophia ↗
