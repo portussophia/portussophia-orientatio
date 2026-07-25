@@ -3,7 +3,7 @@ primary:
     url: /
 
   - label: PS-BIOS-001
-    url: /structura/PS-BIOS-001/
+    url: /#ps-bios-001
     separator_after: true
 
   - label: Public PortusSophia ↗
