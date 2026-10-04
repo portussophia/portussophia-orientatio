@@ -5,9 +5,9 @@ baseurl: ""
 lang: "en-US"
 
 portussophia:
-  template_version: "1.0.0"
+  template_version: "1.1.0"
   asset_origin: "https://assets.portussophia.com"
-  asset_version: "20260719-6"
+  asset_version: "20261004-1"
 
   header_label: "PortusSophia™ Orientation"
   header_role: "The Declared Interface"
