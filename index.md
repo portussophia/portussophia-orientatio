@@ -1,5 +1,6 @@
 ---
 layout: shoreline-masthead
+header_variant: harmonia
 title: PS-BIOS-001 — The Declared Interface
 eyebrow: PortusSophia™ Orientation
 intro: The governing orientation of PortusSophia™, presented directly at the primary public entrance.
