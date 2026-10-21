@@ -8,10 +8,10 @@ The site is being established as a public, versioned point of entry through whic
 
 ## Purpose
 
-The repository will make three source classes available through one stable public surface:
+The repository presents the current working BIOS source and provides space for two other classes of public source material:
 
 1. **PS-BIOS-001 — The Declared Interface**  
-   The governing declaration through which PortusSophia™ presents itself and bounds its claims.
+   The single active repository source is [the Figshare working draft v1.9-draft r9 (2026-10-03)](structura/PS-BIOS-001.md), retaining its declared WORKING standing and document-specific CC BY 4.0 license.
 
 2. **Canon**  
    Materials whose standing, provenance, and status have been expressly declared.
@@ -35,12 +35,17 @@ The immediate function is orientation: source access, declared boundaries, statu
 
 ## Current starting point
 
-The foundational declaration is publicly archived as:
+The **one current BIOS source** in this repository is:
 
-- [PS-BIOS-001 — *The Declared Interface* — direct PDF](https://zenodo.org/records/21229870/files/PS-BIOS-001_TheDeclaredInterface_v1.1_SINGLE_HERE_AND_NOW.pdf?download=1)
-- [PS-BIOS-001 — Zenodo record and standing](https://zenodo.org/records/21229870)
+- [PS-BIOS-001 v1.9-draft r9 — *The Declared Interface*](structura/PS-BIOS-001.md) — exact Markdown copied from the Founder-designated Figshare folder; authored by James Roy Dennis; PortusSophia, LLC; WORKING / public working draft; **CC BY 4.0** for this document.
+- [Public rendered BIOS route](https://orientatio.portussophia.com/structura/PS-BIOS-001/) — derived from that one file through presentation defaults in `_config.yml`.
+- [Orientation homepage](https://orientatio.portussophia.com/) — displays that same source rather than a separate BIOS copy.
 
-The local BIOS, canon, and governance corpus will be added through reviewed repository changes.
+**Historical provenance (not a second active BIOS):** [Zenodo v1.1 PDF](https://zenodo.org/records/21229870/files/PS-BIOS-001_TheDeclaredInterface_v1.1_SINGLE_HERE_AND_NOW.pdf?download=1) and [deposit record](https://zenodo.org/records/21229870).
+
+Document-specific licensing in the current BIOS applies to that work; other repository materials retain their own declared rights and terms. Changes to the public BIOS do not retroactively re-pin any previously completed Orientation receipt.
+
+Additional canon and governance materials may be added only through separately reviewed repository changes.
 
 ## Website stack
 

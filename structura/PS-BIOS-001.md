@@ -1,28 +1,31 @@
 ---
-layout: shoreline-masthead
-title: PS-BIOS-001 — The Declared Interface
-eyebrow: PortusStructura™ · Governing Orientation
-intro: A faithful machine-readable rendering of PS-BIOS-001 v1.1, preserving the deposited declaration while normalizing PDF layout for web access.
-description: Machine-readable rendering of PS-BIOS-001 — The Declared Interface by James Roy Dennis.
-permalink: /structura/PS-BIOS-001/
+identifier: PS-BIOS-001
+title: The Declared Interface
+subtitle: A Foundational Declaration of PortusSophia™
+version: 1.9-draft
+revision: r9
+state_id: PS-BIOS-001__1.9-draft__r9__2026-10-03
+updated: 2026-10-03
+revision_note: >
+  r9 working successor. Softens precedence terminology while preserving the declared
+  interface, its distinct public wrapper, and Notation and Representation Control.
+author: James Roy Dennis
+status: WORKING
+standing: Public working draft; prepared for public dissemination in the Figshare Four
+rights_holder: PortusSophia, LLC
+license: Creative Commons Attribution 4.0 International (CC BY 4.0)
+license_url: https://creativecommons.org/licenses/by/4.0/
+date: 2026-08-07
+date_note: Original declaration date; current working successor updated 2026-10-03.
 ---
 
-# PS-BIOS-001 — The Declared Interface
+# PS-BIOS-001
 
-**A Foundational Declaration of PortusSophia™**
+## The Declared Interface
 
-## Source and rendering status
+*A Foundational Declaration of PortusSophia™*
 
-- **Identifier:** PS-BIOS-001
-- **Title:** *The Declared Interface*
-- **Version:** 1.1
-- **Author:** James Roy Dennis
-- **Publisher:** PortusSophia, LLC
-- **Deposited record:** [Zenodo record 21229870](https://zenodo.org/records/21229870)
-- **Deposited PDF:** [PS-BIOS-001_TheDeclaredInterface_v1.1_SINGLE_HERE_AND_NOW.pdf](https://zenodo.org/records/21229870/files/PS-BIOS-001_TheDeclaredInterface_v1.1_SINGLE_HERE_AND_NOW.pdf?download=1)
-- **PDF SHA-256:** `d658035f74c453cc9035017e7b8a07d840e57198f2caff58c9d9f186d271c34a`
-
-> **Rendering note.** The body below is a faithful machine-readable rendering of the deposited PDF. Page headers, footers, page numbers, and line wrapping have been normalized for web readability. Structural headings and quotations have been represented in Markdown. No substantive wording has been intentionally changed. The Zenodo PDF remains the deposited archival publication.
+© 2026 PortusSophia, LLC.
 
 ---
 
@@ -30,25 +33,15 @@ permalink: /structura/PS-BIOS-001/
 
 ### The Interface
 
-PortusSophia shall not derive authority from itself.
+PortusSophia™ neither derives authority from itself nor treats itself as a source of orientation.
 
-This document declares the interface through which PortusSophia™ presents itself.
-
-It is neither a manifesto nor a doctrine. It is not a theory of everything, a system of belief, nor an authority over inquiry. It is the declared point of orientation through which the work that follows becomes intelligible on its own terms.
-
-The purpose of this declaration is not to persuade, but to make explicit the conditions under which PortusSophia is willing to proceed. Every subsequent document derives its posture from what is declared here. Nothing within the architecture may claim authority beyond the boundaries established by this interface.
-
-Accordingly, this document binds itself before it speaks of anything else.
-
-### What Is Declared
+This document declares the interface by way of which PortusSophia™ presents itself.
 
 PortusSophia™ is offered as a candidate field architecture for disciplined inquiry under ambiguity, constraint, and incomplete knowledge.
 
-It proposes that independently developed inquiries may be described, translated, compared, and evaluated while preserving their own distinctions, provenance, explanatory scope, and declared boundaries.
+It concerns conditions under which independently developed inquiries may or may not become available for description, translation, comparison, and evaluation while preserving distinction, provenance, explanatory scope, and declared boundaries.
 
-The architecture neither replaces existing disciplines nor seeks to reconcile them into a single explanatory framework. It instead concerns itself with the conditions under which distinctions remain sufficiently legible for inquiry to proceed responsibly across differing regimes, methodologies, and traditions.
-
-PortusSophia therefore describes an interface rather than a destination.
+PortusSophia describes an interface rather than a destination.
 
 It exists to improve orientation, not to determine arrival.
 
@@ -56,308 +49,261 @@ It exists to improve orientation, not to determine arrival.
 
 This declaration is descriptive.
 
-It establishes no universal obligation.
+This declaration confers no authority over participants, inquiries, or external regimes.
 
-It compels no adoption.
+Publication, availability, citation, adoption, or repetition do not increase the standing of what is declared here.
 
-It prescribes no belief.
+Its scope is the interface PortusSophia declares for itself.
 
-Its authority extends no further than the scope it explicitly declares.
+Participation remains voluntary.
 
 Where its distinctions prove useful, they remain available.
 
-Where they do not, they may be set aside without violating the integrity of the architecture itself.
+Where they do not, inquiry may proceed otherwise.
 
-PortusSophia therefore asks neither for acceptance nor agreement.
+### Self-Application
 
-It asks only that its distinctions be encountered within the boundaries under which they are declared.
-
-### Self-Binding
-
-Every architecture expresses itself through the conditions it establishes before it acts.
-
-PortusSophia therefore begins not by describing the world, but by describing the discipline it accepts for itself.
-
-Before proposing a posture, it accepts one.
-
-Before describing conduct, it governs its own.
-
-Before offering a generative principle, it declares the conditions under which generation may responsibly occur.
-
-Before presenting its disciplinary commitments, it accepts their application to itself.
-
-This ordering is intentional.
-
-The architecture does not seek exemption from the discipline it declares.
-
-Its first act is not explanation.
+PortusSophia begins by declaring the discipline it accepts for itself.
 
 Its first act is restraint.
 
+### Notation and Representation Control
+
+In this artifact, the glyph `"≠"` is a visible representation of a locally stated non-equivalence. Its appearance alone does not determine the operative relation represented by that distinction.
+
+```text
+OPERATIVE RELATION
+→
+REPRESENTATION
+
+!==
+→
+"≠"
+```
+
+Here `!==` is illustrative only: an operative non-equality relation may be rendered to a reader by the glyph `"≠"` without making the glyph the operator. The reverse is not licensed:
+
+```text
+"≠"
+DOES NOT UNIQUELY RECOVER
+!==
+```
+
+Different operative relations may therefore share the same visible glyph. The surrounding proposition supplies the local relational character. This control does not adopt `!==` as PortusSophia™ syntax and does not establish a new formal notation.
+
+### Load-Bearing Discipline
+
+The interface distinguishes load-bearing discipline from its public expression.
+
+#### Shared Precedence
+
+PortusSophia carries the following precedence relations:
+
+```text
+Character precedes representation.
+
+Schema precedes word.
+
+Model precedes behavior.
+
+Provenance precedes attribution.
+
+Warrant precedes reach.
+
+Integrity precedes message.
+```
+
+Here `precedes` names an accountability relation rather than a claim that documentary or chronological order alone confers authority.
+
+Later expression remains answerable to the condition that makes its standing possible.
+
+Representation cannot manufacture Character.
+
+Word cannot manufacture Schema.
+
+Behavior cannot manufacture Model.
+
+Attribution cannot manufacture Provenance.
+
+Reach cannot manufacture Warrant.
+
+Message cannot manufacture Integrity.
+
+The six relations are carried together. Local salience does not make one member independently sufficient.
+
+#### Triadic Resolution Invariant
+
+The Disciplinary Triad is likewise received as a triadic discipline rather than a menu of axioms.
+
+At minimum, its resolution carries an **SC–SI–RR** triad:
+
+- **Sequential Consequence (SC)** — differentiated work may become consequential to what follows.
+- **Singular Inextractability (SI)** — no member's contribution is treated as disposable by relocating its work into the other two.
+- **Relational Regimentation (RR)** — the composition remains bounded to the declared relation.
+
+This is the minimum Triadic Resolution Invariant carried here.
+
+A member may become locally salient without becoming independently sufficient.
+
+### Integrity Begins Within
+
+The schema is our word.
+
+The model is our behavior.
+
+Provenance keeps passage attributable.
+
+Warrant names earned reach.
+
+Limitation preserves unestablished continuation.
+
+Integrity may or may not be earned.
+
+These statements are received within the load-bearing discipline above; they do not replace it.
+
 ### Orientation
 
-What follows declares the interface through complementary aspects.
+The interface is therefore carried in layers rather than as equal-weight headings.
 
-The posture establishes how the architecture stands. The code of conduct establishes how it proceeds. The generative principle establishes how coherence may emerge. The disciplinary triad establishes the discipline under which that emergence remains faithful to itself.
+**Load-bearing discipline** — Shared Precedence and the Disciplinary Triad.
 
-Together they declare the interface through which PortusSophia™ presents itself.
+**Public expression** — Posture, Code of Conduct, and Generative Principle.
 
-*“Here and Now!”*
+Posture describes how the architecture stands.
 
-## Part I — Posture
+Code of Conduct describes how it proceeds.
 
-The architecture has declared its interface.
+Generative Principle describes how coherence may or may not emerge.
 
-It now declares the posture under which it is willing to proceed.
+The Disciplinary Triad keeps those expressions open without surrendering discipline.
 
-Posture is neither strategy nor conclusion. It is the manner in which the architecture chooses to stand before inquiry begins. Every act of translation, comparison, generation, and evaluation that follows inherits from this posture.
+*Here and Now!*
 
-### Mission
+---
 
-To see clearly where a difference can be made.
+# Part I — Posture
 
-The work began where many encounters became one recognition: the same structural failure returning again and again in unfamiliar form, recognizable only after learning to see beyond its surface to the shape beneath.
+## Mission
 
-PortusSophia™ does not seek to eliminate every uncertainty, resolve every disagreement, or replace every existing way of knowing. It seeks to improve the conditions under which inquiry may responsibly encounter them.
+To remain fidelis to ethical Fellowship and dignified inquiry.
 
-PortusSophia means harbor of wisdom, not source of wisdom. The wisdom of a harbor is that orientation comes first, and that no harbor is a place to remain.
+PortusSophia™ provides a candidate-as-feature field architecture carrying first-order restraint and discipline by way of shared not-self orientation in service of that mission.
 
-> Knowing that dragons accompany horizons, it is the absence of both that is most concerning.
+> *Knowing that dragons accompany horizons, it is the absence of both that is most concerning.*
 
-*“Here and Now!”*
+## Vision
 
-### Vision
+To offer PortusSophia™ as a candidate field architecture for description, translation, comparison, and evaluation across differing regimes, with candidacy retained as a feature of the architecture rather than a deficiency awaiting removal.
 
-PortusSophia™ is offered as a candidate field architecture within which independently developed inquiries may be described, translated, compared, and evaluated while remaining faithful to their own distinctions, provenance, explanatory scope, and declared boundaries.
+## Intent
 
-Its purpose is not to unify inquiry into a single explanatory system.
-
-Its purpose is to improve the architectural conditions under which inquiry may traverse differing regimes without unnecessary loss of fidelity.
-
-Where recurring structural patterns become sufficiently legible, disciplines may communicate without surrendering their own integrity.
-
-### Intent
-
-PortusSophia exists to facilitate agency through discovery.
+PortusSophia exists to facilitate agency by way of discovery.
 
 It aspires to illuminate.
 
-It does not prescribe.
+It seeks not to prescribe.
 
-It offers distinctions rather than verdicts, preserving the freedom of individuals and communities to determine what is true, valuable, or worthy of action within their own declared contexts.
+It offers distinctions rather than verdicts.
 
-The architecture therefore accepts responsibility for making distinctions available.
-
-It does not accept responsibility for the conclusions others may rightly or wrongly derive from them.
-
-### The Distinction Postulate
-
-The generative movement of PortusSophia begins with distinction.
-
-Categories are declared before relationships are derived.
-
-Distinction precedes operation within every declared regime—not because categories exist independently of their declaration, but because the act of distinguishing establishes the boundaries within which independent verification becomes possible.
-
-This is a methodological commitment.
-
-It is not a metaphysical claim.
-
-Regime discipline follows from this commitment.
-
-A category established within one regime possesses standing only within that regime until correspondence elsewhere has been independently demonstrated.
-
-Similarity of language does not establish identity of category.
-
-A category asserted across regimes without demonstrated correspondence equivocates.
-
-Two regimes may legitimately employ the same term while referring to structurally distinct categories.
-
-Correspondence must therefore be earned.
-
-It cannot be imported.
-
-Distinction preserves inquiry by declaring where claims presently stand, where they do not, and what remains necessary before further correspondence may responsibly be asserted.
-
-### Posture
+## Approach
 
 PortusSophia proceeds with dignified restraint and responsible judgment.
-
-It declares methodology rather than doctrine.
 
 It seeks clarity before certainty.
 
 It preserves distinction before synthesis.
 
-It remains descriptive where description is sufficient and declines prescription where prescription has not been earned.
+It remains descriptive where description is sufficient and seeks not to prescribe where prescription has not been earned.
 
-Participation is voluntary.
+Participation remains voluntary.
 
 Responsibility remains with those closest to the inquiry.
 
-The architecture claims no authority beyond the boundaries it explicitly declares.
+> *PortusSophia seeks not to put the trolley before the problem.*
 
-### Standing Disclaimer
+> *There exists a distinct bounce when a flipped coin lands on its edge.*
 
-PortusSophia™ holds itself accountable to a structural standard that invalidates its own use as authority, prescription, or substitute for individual judgment.
+---
 
-Any attempt to employ the architecture as a source of unquestionable authority, to prescribe belief or outcome, or to replace the responsibility of those conducting inquiry constitutes a misuse of PortusSophia rather than an application of it.
-
-The architecture remains answerable to the boundaries it declares before it becomes answerable to any conclusion drawn within them.
-
-## Part II — The Code of Conduct
+# Part II — The Code of Conduct
 
 Before inquiry becomes generative, it becomes relational.
 
-No architecture can preserve distinction if those participating in it are diminished by the manner in which inquiry proceeds. The conditions under which participants encounter one another influence what questions may safely be asked, what uncertainties may honestly be admitted, and what distinctions may responsibly emerge.
+PortusSophia carries a single conduct triad:
 
-For this reason, the Code of Conduct precedes the Generative Principle.
+**Dignity. Respect. Kindness.**
 
-It does not govern the universe.
+Its scope is PortusSophia’s own conduct.
 
-It governs only the manner in which PortusSophia™ chooses to conduct itself.
+## Dignity
 
-It establishes no universal code of conduct.
+> *«PortusSophia encounters every participant as irreducible.»*
 
-It binds no participant beyond those who voluntarily choose to proceed within this declared interface.
+Dignity preserves the participant.
 
-Its purpose is not moral authority.
-
-Its purpose is architectural integrity.
-
-The conduct declared here forms a single triadic discipline.
-
-Each element conditions the others.
-
-None stands coherently alone.
-
-Together they preserve the environment within which inquiry may remain open without becoming hostile, disciplined without becoming rigid, and rigorous without becoming destructive.
-
-### Dignity
-
-> «Every participant shall be encountered as irreducible.»
-
-Dignity is the beginning of conduct.
-
-Before agreement or disagreement, before expertise or uncertainty, before success or failure, there exists the participant who inquires.
-
-PortusSophia therefore refuses to reduce participants to conclusions, positions, or status.
+Before agreement or disagreement, expertise or uncertainty, there exists the participant who inquires.
 
 Inquiry concerns claims.
 
 Dignity precedes them.
 
-Dignity is not earned through correctness.
+Dignity is neither earned by correctness nor diminished by error.
 
-Neither is it diminished through error.
+## Respect
 
-By preserving the irreducibility of every participant, the architecture preserves the possibility that inquiry may continue where certainty has not yet arrived.
+> *«Distinction is preserved by honoring declared boundaries.»*
 
-Dignity therefore protects the participant before the discussion.
+Respect preserves the inquiry.
 
-### Respect
+Ideas are encountered within their declared scope.
 
-> «Distinction is preserved by honoring declared boundaries.»
+Categories remain distinguishable.
 
-Respect follows naturally from dignity.
+Contexts remain attributable.
 
-If dignity preserves the participant, respect preserves the inquiry shared between participants.
+Disagreement addresses claims rather than diminishing participants.
 
-Respect requires that ideas be encountered within their declared scope before they are criticized beyond it.
+Criticism remains available.
 
-It requires that categories remain distinguishable, that contexts remain declared, and that disagreement address claims rather than participants.
+## Kindness
 
-Respect neither prohibits criticism nor weakens rigor.
+> *«Strength requires no unnecessary injury.»*
 
-Instead, it disciplines criticism so that inquiry remains faithful to what has actually been presented rather than what is merely assumed.
+Kindness preserves the future in which participant and inquiry may continue.
 
-Respect therefore protects the inquiry itself.
-
-### Kindness
-
-> «Strength requires no unnecessary injury.»
-
-Kindness completes the conduct.
-
-It is neither sentiment nor indulgence.
-
-It is disciplined generosity exercised under restraint.
-
-Kindness refuses humiliation where clarification will suffice.
+It refuses humiliation where clarification will suffice.
 
 It refuses domination where distinction is enough.
 
-It refuses unnecessary harm where careful attention preserves both truth and relationship.
+It refuses unnecessary harm where careful attention preserves both truth and relation.
 
-Scorn forecloses.
-
-Contempt narrows possibility.
-
-Humiliation invites performance where honesty might otherwise have appeared.
-
-Kindness preserves the conditions under which difficult questions remain askable and difficult answers remain hearable.
-
-It therefore protects the future of inquiry.
-
-### The Conduct Triad
-
-The three are not sequential virtues gathered into a list.
-
-They are a single relational structure.
+## The Conduct Triad
 
 Dignity preserves the participant.
 
 Respect preserves the inquiry.
 
-Kindness preserves the future in which both may continue.
+Kindness preserves the future in which both continue.
 
-Remove dignity, and respect becomes procedural.
+Together they describe the conduct by way of which PortusSophia chooses to proceed.
 
-Remove respect, and kindness becomes sentiment.
+---
 
-Remove kindness, and dignity and respect gradually surrender to fear, defensiveness, or domination.
+# Part III — The Generative Principle
 
-Together they establish the conduct through which PortusSophia chooses to proceed.
+The Generative Principle concerns conditions under which coherence may or may not emerge from preserved distinction.
 
-The architecture asks nothing of others that it does not first accept for itself.
+## The Generative Observation
 
-Conduct therefore becomes the first observable expression of the posture previously declared.
+Individual observations may or may not be sufficiently informative.
 
-Only after this discipline has been accepted does the architecture speak of generation.
+Preserved observations, encountered across time without premature reduction, may or may not reveal relations unavailable at the level of isolated instances.
 
-The conditions have now been prepared.
+A great deal may or may not emerge from a surprisingly small substrate when attention, persistence, and distinction are preserved.
 
-Inquiry may begin.
+## The Generative Movement
 
-## Part III — The Generative Principle
-
-Only after the architecture has declared its posture and accepted its own conduct does it speak of generation.
-
-Generation is not merely the production of novelty.
-
-It is the disciplined emergence of coherence through preserved distinction.
-
-The Generative Principle describes this movement.
-
-It does not prescribe what inquiry should conclude.
-
-It describes the conditions under which previously unavailable structure may become available for responsible examination.
-
-### The Generative Observation
-
-Individual observations may be insufficiently informative.
-
-Preserved observations, encountered across time and held without premature reduction, may reveal relationships unavailable at the level of isolated instances.
-
-A great deal may emerge from a surprisingly small substrate when attention, persistence, and distinction are preserved long enough for coherence to form.
-
-This principle is not merely a statement about knowledge.
-
-It is a statement about disciplined generation.
-
-### The Generative Movement
-
-Generation proceeds through a recurring movement.
-
+```text
 Distinction creates separability.
 
 Preservation creates continuity.
@@ -371,197 +317,284 @@ Pattern permits coherence.
 Coherence reveals structure.
 
 Structure permits new distinction.
+```
 
-The movement then begins again.
+The movement may begin again.
 
-Each cycle enlarges the possibility that relationships previously unavailable to inquiry may become sufficiently distinguishable to support further investigation.
+## The Architectural Cycle
 
-Generation therefore proceeds not by accumulation alone, but through disciplined preservation across time.
+Within PortusSophia™:
 
-### The Architectural Cycle
-
-The generative movement later became sufficiently clear to admit architectural expression.
-
-Within PortusSophia™ it is described as:
-
-> Orientation → Coherence → Restraint → Generative Choice → Integration → Orientation
+> *Orientation → Coherence → Restraint → Generative Choice → Integration → Orientation*
 
 The sequence is descriptive.
 
-It neither mandates a universal process nor excludes alternative methodologies.
+Each return to Orientation may carry distinctions unavailable at the preceding passage.
 
-It describes the recurring architectural movement observed within this field of inquiry.
-
-Each movement conditions the next.
-
-Each return to Orientation begins not where the previous cycle started, but where new distinction has become available.
-
-The architecture therefore proceeds not through linear completion but through recursive refinement.
-
-### The Motivating Observation
-
-Beneath the generative movement lies the observation that first motivated the inquiry.
+## The Motivating Observation
 
 Human systems repeatedly struggle with the transition between what presently is and what ought responsibly to become.
-
-The difficulty is rarely one of intention alone.
-
-It is frequently architectural.
 
 Boundaries become obscured.
 
 Categories become conflated.
 
-Context becomes detached from the conditions that originally gave it meaning.
+Context becomes detached from the conditions that gave it meaning.
 
 Resolution is mistaken for understanding.
 
 Authority substitutes for distinction.
 
-PortusSophia does not propose a universal solution to this condition.
+PortusSophia seeks not to provide a universal solution.
 
-It instead seeks to improve the architectural environment within which such transitions may be examined without coercion, domination, or false completion.
+It seeks to improve the conditions under which such transitions may be examined.
 
-### Generation Under Restraint
+## Generation Under Restraint
 
-Generation alone is insufficient.
+Novelty without discipline may become speculation.
 
-Novelty without discipline easily becomes speculation.
+Discipline without generation may become rigidity.
 
-Discipline without generation becomes rigidity.
+> *«Preserved distinction, carried across change, may or may not become coherence. Coherence may or may not make previously unavailable structure available to further distinction.»*
 
-The Generative Principle therefore stands between posture and discipline.
+---
 
-It describes how coherence may emerge while refusing to determine what coherence must ultimately become.
+# Part IV — The Disciplinary Triad
 
-Generation remains open.
+Generation may produce distinction without establishing its standing.
 
-Its integrity depends upon the conditions already declared and the discipline yet to follow.
+The Disciplinary Triad preserves three open relations.
 
-### The Compressed Principle
+It is not a selection surface for choosing one preferred axiom. The three are received together through the minimum Triadic Resolution Invariant: Sequential Consequence (SC), Singular Inextractability (SI), and Relational Regimentation (RR).
 
-The movement described throughout this section may be expressed compactly.
+## The Open Form
 
-> «Preserved distinction, carried through time, becomes coherence.  
-> Coherence makes previously unavailable structure available to further distinction.»
+```text
+A1 — Non-Coercive Emergence
+[ MAY | MAY NOT ]
 
-This is not offered as a law.
+A2 — Non-Resolution
+[ MAY | MAY NOT ]
 
-It is offered as an architectural observation.
+A3 — Non-Closure
+[ MAY | MAY NOT ]
+```
 
-Where it proves useful, it remains available.
+`MAY | MAY NOT` preserves both possibilities until inquiry earns a narrower standing.
 
-Where it does not, the inquiry remains free to proceed by other means.
+> **Do not collapse the relation before the field earns one side.**
 
-Generation has now been declared.
+## Sequential Consequence
 
-What remains is the discipline that governs it.
+```text
+emergence
+→ resolution
+→ closure
+```
 
-## Part IV — The Disciplinary Triad
+A1 concerns what may emerge.
 
-The interface has now declared its posture, accepted its conduct, and described the conditions under which coherence may emerge.
+A2 concerns what may become resolved.
 
-Generation alone, however, cannot preserve its own integrity.
+A3 concerns what may become closed.
 
-Every architecture that generates distinctions also carries the possibility of distorting them.
+Each passage remains `MAY | MAY NOT`.
 
-The discipline declared here exists to preserve the conditions under which the preceding declaration may remain faithful to itself.
+## Why All Three Matter
 
-The Disciplinary Triad is therefore not an addition to the architecture.
+```text
+A1 without A2
+→ non-coerced emergence may still become prematurely resolved
 
-It is the constitutional discipline by which the architecture remains answerable to its own declaration.
+A2 without A3
+→ unresolved distinction may still become prematurely closed
 
-The three axioms form a single relational structure.
+A3 without A1
+→ optionality may be preserved only after the field was already coerced
+```
 
-Each conditions what the others are permitted to mean.
+The three remain distinguishable and mutually consequential.
 
-None stands coherently alone.
+## Open Relation
 
-Together they preserve inquiry without domination, interpretation without false completion, and future possibility without unnecessary foreclosure.
+`MAY | MAY NOT` preserves the relation until inquiry earns one side, a partial return, vestigium, or a capacity horizon.
 
-The triad exhibits three inseparable structural properties.
+Claims established within one regime receive no automatic standing in another.
 
-### Sequential Consequence
+Correspondence earns standing within the regime to which it is carried.
 
-The axioms form a temporal progression. Each follows from the recognized limits of the one before. The movement proceeds from the immediate, to the enduring, to the structural.
+---
 
-### Relational Regimentation
+## A₁ — Non-Coercive Emergence
 
-Each axiom bounds what the others may legitimately assert. No claim established within one regime may be imported into another merely by similarity of language or convenience of explanation. Correspondence must always be demonstrated within the regime to which the claim belongs.
+> *«What emerges from a structure remains available without forced interpretation.»*
 
-### Singular Inextractability
+### Structural Form
 
-No axiom may be removed without altering the meaning of those that remain. The triad is the smallest coherent disciplinary unit.
+```text
+CONSTRAINT
+    │
+MAY | MAY NOT
+    │
+ALTER SALIENCE
+```
 
-### A₁ — Non-Coercive Emergence
+A constraint may or may not alter salience.
 
-> «What emerges from a structure must be allowed to speak for itself, without the architect forcing interpretation upon it.»
+Where salience changes, interpretation is not thereby prescribed.
 
-Meaning. Meaning belongs to the observer. A structure is responsible only for its integrity, not the impressions others form from it. The task is not to dictate meaning, but to maintain the conditions under which meaning can emerge.
+Meaning belongs to the observer.
 
-Protects. Non-totalization; boundary discipline; emergent interpretation; the observer's right to form their own understanding.
+The structure remains answerable to its own integrity.
 
-### A₂ — Non-Resolution
+**Protects:** non-totalization, boundary discipline, emergent interpretation, and the observer’s freedom to form understanding.
 
-> «Everything manifests only in relation to substrate. Formalization compresses. Distinction is fundamental. "Here and Now!" is the only moment where manifestation and awareness co-occur without mediation.»
+---
 
-Meaning. There is no view from nowhere. All phenomena—symbols, words, numbers, ideas, dreams, hallucinations, and even formalized concepts—manifest only through substrate. The substrate determines what can emerge and how it is experienced. Formalization necessarily compresses the continuous into the discrete, the analog into the digital, meaning into words. Every act of naming loses what something is in exchange for what can be said about it. Nothing is meaningful in isolation. Definition requires distinction. Identity emerges only through difference.
+## A₂ — Non-Resolution
 
-The irreducible tension. Coordination requires formalization; formalization necessarily compresses; therefore all coordination involves managed loss.
+> *«What becomes manifest to inquiry is received in relation to substrate. Formalization compresses. Distinction remains fundamental. *Here and Now!* names the present interface where manifestation and awareness are received without an additional declared mediation.»*
 
-Non-Resolution names this tension and refuses to resolve it falsely—neither claiming that formalization can be complete, nor abandoning formalization because it compresses. The tension is held, with eyes open.
+### Structural Form
 
-Protects. Humility before compression; acknowledgment that context determines meaning; the holding of tension between the need to formalize and the impossibility of complete capture.
+```text
+SALIENT DISTINCTION
+    │
+MAY | MAY NOT
+    │
+EXHAUST THE OPERATIVE FIELD
+```
 
-### A₃ — Non-Closure
+A salient distinction may or may not exhaust the operative field.
 
-> «Optionality is temporal, not momentary. Structural decisions condition future possibility space. What is foreclosed cannot emerge.»
+PortusSophia claims no view from nowhere.
 
-Meaning. Optionality extends across time. Decisions with enduring architectural consequence condition which possibilities remain available later. When possibility space is permanently foreclosed, phenomena dependent upon that space can no longer emerge.
+Phenomena available to inquiry are received by way of substrate.
 
-Why it is consequential, not standalone. Non-Coercive Emergence protects voluntary acceptance in the present. Non-Resolution preserves tension during interpretation. Yet both may be honored momentarily while structural decisions quietly eliminate future alternatives. Non-Closure preserves the conditions under which the first two axioms may continue to operate across time.
+Formalization compresses.
 
-The irreducible tension. Every decision forecloses something. Non-Closure does not prohibit decision. It instead asks that irreversible foreclosure be undertaken with awareness of the possibilities thereby surrendered. The tension between structural necessity and preserved optionality remains unresolved, consistent with Non-Resolution itself.
+Vestigium may remain.
 
-Protects. Future optionality; emergence capacity; the durability of Non-Coercive Emergence and Non-Resolution across time.
+Definition requires distinction.
 
-### Closing
+Identity may or may not become attributable by way of difference; difference alone does not establish identity.
 
-The discipline declared here does not remove the limits of inquiry. It renders them more legible. In doing so, it makes visible the capacity horizons within which every declared inquiry necessarily proceeds.
+> Coordination requires formalization. Formalization carries compression. Coordination may therefore involve managed loss.
 
-PortusSophia™ declares no final theory.
+**Protects:** humility before compression, contextual meaning, and unresolved distinction.
 
-It offers no universal method.
+---
 
-It claims no authority over inquiry.
+## A₃ — Non-Closure
 
-It declares an interface.
+> *«Optionality is not exhausted by the present moment. Structural decisions condition future possibility space. What is foreclosed does not remain available to emerge under that foreclosure.»*
 
-Within that interface, posture precedes explanation.
+> **Today’s misattributed misfortune may or may not be tomorrow’s opportunity.**
 
-Conduct precedes generation.
+### Structural Form
 
-Generation precedes discipline.
+```text
+BINARY ORGANIZATION
+    │
+MAY | MAY NOT
+    │
+PRESERVE REMAINING OPTIONALITY
+```
 
-Discipline preserves the integrity of them all.
+Binary organization may or may not preserve remaining optionality.
 
-Nothing within this declaration compels agreement.
+Structural decisions condition future possibility space.
 
-Nothing prevents examination.
+A decision may foreclose something.
+
+Non-Closure seeks that durable foreclosure remain visible, with reopening conditions declared where available.
+
+**Protects:** future optionality, emergence capacity, and the continued availability of Non-Coercive Emergence and Non-Resolution across change.
+
+---
+
+# Closing
+
+PortusSophia™ declares an interface, not an arrival.
 
 Its distinctions remain available.
 
 Its boundaries remain declared.
 
-Its invitation remains voluntary.
+Participation remains voluntary.
 
-If the architecture proves useful, let it be because its distinctions have earned their place.
+What earns standing may be carried at that standing.
+
+What remains unresolved may remain unresolved.
+
+If the architecture proves useful, let its distinctions earn their place.
 
 If it does not, let inquiry continue.
 
-That, too, is consistent with what has been declared.
+*Here and Now!*
 
-*“Here and Now!”*
+### The Working Set
 
-PortusSophia, LLC  
-© 2026 PortusSophia, LLC. All rights reserved.
+PS-BIOS-001 is carried with PS-FELLOWSHIP-001 and PS-PROV-001 as a working congruent set of distinct artifacts.
+
+This declaration carries the interface.
+
+Fellowship carries relational inquiry within that interface.
+
+Provenance carries attributable passage.
+
+Their relation does not make one a substitute for another.
+
+### The Figshare Four
+
+The present public examination also includes *Seemingly: The Coefficient*.
+
+Its inclusion does not convert the working set into four foundational members.
+
+```text
+BIOS
+→ declared interface
+
+FELLOWSHIP
+→ relational availability
+
+PROVENANCE
+→ attributable passage
+
+THE COEFFICIENT
+→ examination of differentiated co-presence
+```
+
+The fourth artifact makes the relation among the first three directly examinable.
+
+```text
+FOUR ARTIFACTS
+≠
+FOUR FOUNDATIONAL MEMBERS
+
+CO-PRESENCE
+≠
+COLLAPSE
+
+RELATION
+≠
+SUBSTITUTION
+
+QUESTION MADE AVAILABLE
+≠
+ANSWER ESTABLISHED
+```
+
+Differentiated co-presence may or may not make further questions available. Their availability does not confer architectural standing.
+
+
+---
+
+---
+
+## Postmatter — Verification
+
+**All records and accounts are verifiable upon dignified request.**
+
+`VERIFIABILITY ≠ UNRESTRICTED ACCESS`
+

@@ -37,3 +37,16 @@ exclude:
   - LICENSE.md
   - Gemfile
   - Gemfile.lock
+
+# Page presentation metadata lives here so the single BIOS source file below
+# remains byte-for-byte identical to the Founder-designated Figshare draft.
+defaults:
+  - scope:
+      path: "structura/PS-BIOS-001.md"
+      type: "pages"
+    values:
+      layout: shoreline-masthead
+      permalink: /structura/PS-BIOS-001/
+      eyebrow: "PortusStructura™ · Working Orientation"
+      intro: "PS-BIOS-001 v1.9-draft r9 (2026-10-03) — Figshare working draft; standing preserved."
+      description: "PS-BIOS-001 — The Declared Interface. Working draft v1.9 r9 by James Roy Dennis, PortusSophia, LLC; document-specific CC BY 4.0."

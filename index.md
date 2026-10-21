@@ -3,8 +3,8 @@ layout: shoreline-masthead
 header_variant: harmonia
 title: PS-BIOS-001 — The Declared Interface
 eyebrow: PortusSophia™ Orientation
-intro: The governing orientation of PortusSophia™, presented directly at the primary public entrance.
-description: Read PS-BIOS-001 — The Declared Interface, then continue to canon and governance materials according to their declared standing.
+intro: PS-BIOS-001 v1.9-draft r9 — the Figshare working declaration, presented from one source file.
+description: Read the current working draft of PS-BIOS-001 — The Declared Interface (v1.9 r9), then continue to other materials according to their declared standing.
 shoreline_image: https://assets.portussophia.com/img/site/shoreline.jpg
 shoreline_position: center 48%
 shoreline_height: clamp(13rem, 27vh, 21rem)
@@ -13,11 +13,13 @@ permalink: /
 
 <span id="ps-bios-001"></span>
 
+> **PS-BIOS-001 — current source:** [v1.9-draft r9 (2026-10-03)](https://github.com/portussophia/portussophia-orientatio/blob/main/structura/PS-BIOS-001.md), matching the Founder-designated Figshare working draft. **Standing: WORKING / public working draft**, not a declaration of canonical adoption. The source identifies [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) as its document-specific license. The earlier [Zenodo v1.1 deposit](https://zenodo.org/records/21229870) remains archival provenance, not a competing active BIOS.
+
 {% assign bios_page = site.pages | where: "url", "/structura/PS-BIOS-001/" | first %}
 {% if bios_page %}
 {{ bios_page.content | markdownify }}
 {% else %}
-> **Source unavailable.** The machine-readable rendering of PS-BIOS-001 could not be loaded. Consult the [deposited Zenodo record](https://zenodo.org/records/21229870).
+> **Current source temporarily unavailable in this rendering.** Consult the [single BIOS Markdown source, v1.9-draft r9](https://github.com/portussophia/portussophia-orientatio/blob/main/structura/PS-BIOS-001.md). The [Zenodo v1.1 record](https://zenodo.org/records/21229870) is an earlier archival version.
 {% endif %}
 
 ---
@@ -158,7 +160,7 @@ It does not yet enable re-adjudication of a prior answer. A reader may neverthel
 
 ## Current standing
 
-PS-BIOS-001 is now presented directly on the Orientatio homepage. The stable `/structura/PS-BIOS-001/` route remains available as an alternate public path to the same machine-readable rendering. The Zenodo PDF remains the deposited archival publication.
+The homepage and `/structura/PS-BIOS-001/` both render the single `structura/PS-BIOS-001.md` source, matching the Founder-designated Figshare v1.9-draft r9 document. Its status remains WORKING / public working draft; newer availability does not automatically revise previous Orientation receipts or confer canonical standing. The prior Zenodo v1.1 PDF remains archival provenance.
 
 Canon and governance materials will be added through reviewed, versioned changes.
 
