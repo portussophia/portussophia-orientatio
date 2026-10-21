@@ -60,3 +60,63 @@ defaults:
       eyebrow: "PortusSophia™ · Provenance · Public working draft"
       intro: "PS-PROV-001 v0.4-draft r7 (2026-10-03) — attributed history, not a source of authority."
       description: "PS-PROV-001 — Provenance, by James Roy Dennis; working-draft status and document-specific CC BY 4.0 preserved."
+
+  - scope:
+      path: "orientation/ORIENT.md"
+      type: "pages"
+    values:
+      layout: shoreline-masthead
+      permalink: /orientation/ORIENT/
+      eyebrow: "PortusSophia™ · Orientation · ORIENT"
+      intro: "ORIENT — version 1.7; standing retained from source."
+      description: "PortusSophia Orientation ORIENT; Founder-designated Drive source."
+
+  - scope:
+      path: "orientation/VERN.md"
+      type: "pages"
+    values:
+      layout: shoreline-masthead
+      permalink: /orientation/VERN/
+      eyebrow: "PortusSophia™ · Orientation · VERN"
+      intro: "VERN — version 0.14; standing retained from source."
+      description: "PortusSophia Orientation VERN; Founder-designated Drive source."
+
+  - scope:
+      path: "orientation/PERM.md"
+      type: "pages"
+    values:
+      layout: shoreline-masthead
+      permalink: /orientation/PERM/
+      eyebrow: "PortusSophia™ · Orientation · PERM"
+      intro: "PERM — version 1.4; standing retained from source."
+      description: "PortusSophia Orientation PERM; Founder-designated Drive source."
+
+  - scope:
+      path: "orientation/ORI.md"
+      type: "pages"
+    values:
+      layout: shoreline-masthead
+      permalink: /orientation/ORI/
+      eyebrow: "PortusSophia™ · Orientation · ORI"
+      intro: "ORI — version 1.4; standing retained from source."
+      description: "PortusSophia Orientation ORI; Founder-designated Drive source."
+
+  - scope:
+      path: "orientation/METHOD.md"
+      type: "pages"
+    values:
+      layout: shoreline-masthead
+      permalink: /orientation/METHOD/
+      eyebrow: "PortusSophia™ · Orientation · METHOD"
+      intro: "METHOD — version 1.4; standing retained from source."
+      description: "PortusSophia Orientation METHOD; Founder-designated Drive source."
+
+  - scope:
+      path: "orientation/POSTURE.md"
+      type: "pages"
+    values:
+      layout: shoreline-masthead
+      permalink: /orientation/POSTURE/
+      eyebrow: "PortusSophia™ · Orientation · POSTURE"
+      intro: "POSTURE — version 1.2; standing retained from source."
+      description: "PortusSophia Orientation POSTURE; Founder-designated Drive source."

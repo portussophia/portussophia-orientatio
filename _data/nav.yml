@@ -1,12 +1,12 @@
 primary:
-  - label: Home
+  - label: Orientation · Eight files
     url: /
 
-  - label: PS-BIOS-001
-    url: /#ps-bios-001
+  - label: BIOS
+    url: /#bios
 
-  - label: PROV — Provenance
-    url: /#provenance
+  - label: PROV
+    url: /#prov
 
   - label: Across Regimes
     url: /structura/PS-BIOS-001/across-regimes/

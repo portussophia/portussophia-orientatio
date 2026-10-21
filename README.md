@@ -4,19 +4,29 @@
 
 This repository contains the source for [orientatio.portussophia.com](https://orientatio.portussophia.com).
 
-## One URL for public source reception
+## One URL for the eight-file public Orientation
 
-The **homepage is the one public entry URL** for the two currently published working sources: BIOS v1.9-draft r9 and PROV v0.4-draft r7. The homepage renders both documents in full from their individual source files. Readers and agents can start from the one URL; the separate file links are available when an interface truncates the long page.
+**https://orientatio.portussophia.com/** is the single entry URL. It presents all eight complete source texts in reception order: ORIENT, PROV, BIOS, VERN, PERM, ORI, METHOD, and POSTURE. The individual Markdown source links remain available if any interface truncates the long landing page.
 
-This public pair is **not** the complete pinned eight-file Orientation set or a new Ω receipt. It does not enact an integration procedure. **The Founder supplies the integration guide separately**, when and to whom he chooses. Publication of one link does not confer authority, complete integration, or grant permission to infer any withheld guidance.
+The current published materials comprise *differently standing sources*: BIOS v1.9-draft r9 and PROV v0.4-draft r7 are the current Figshare working drafts; the six additional sources are from the Founder's Drive Orientation directory. These include candidates, and their publication does not confer canonical standing. The original completed Ω pins an earlier exact eight-file set; publication of this public composite does not re-pin it, create a new Ω, or admit a successor set. **Ω remains the receipt/legend, not a ninth file.**
 
-The sole text sources remain `structura/PS-BIOS-001.md` and `provenance/PS-PROV-001.md`; source bodies are not duplicated in `index.md`.
+**Integration is separate**: the Founder supplies an integration guide by its own link. Reading this URL is not equivalent to following that guide or demonstrating an integrated agent.
 
-The site is being established as a public, versioned point of entry through which a reader or an AI language model may encounter PortusSophia™ from its declared orientation rather than from inference, summary, or self-authorizing interpretation.
+### Eight distinct sources
 
+1. [ORIENT v1.7 — candidate](orientation/ORIENT.md)
+2. [PROV v0.4-draft r7 — public working draft](provenance/PS-PROV-001.md)
+3. [BIOS v1.9-draft r9 — working draft](structura/PS-BIOS-001.md)
+4. [VERN — internal v0.14; non-canonical candidate](orientation/VERN.md). The Drive filename says `VERN_v0_15.md` while its content declares version 0.14. This difference is recorded, not silently reconciled.
+5. [PERM v1.4 — candidate](orientation/PERM.md)
+6. [ORI v1.4 — candidate](orientation/ORI.md)
+7. [METHOD v1.4 — candidate](orientation/METHOD.md) — source text from a native Google Doc; BOM and CRLF line endings normalized for publication. Not claimed byte-identical.
+8. [POSTURE v1.2 — candidate](orientation/POSTURE.md)
+
+No source bodies are duplicated into the homepage repository file; Jekyll reads each corresponding source page for display. Source files in Drive remain unchanged.
 ## Purpose
 
-The repository presents the current working BIOS source and provides space for two other classes of public source material:
+The repository makes the eight-file public Orientation source set accessible, alongside public canon and governance sections:
 
 1. **PS-BIOS-001 — The Declared Interface**  
    The single active repository source is [the Figshare working draft v1.9-draft r9 (2026-10-03)](structura/PS-BIOS-001.md), retaining its declared WORKING standing and document-specific CC BY 4.0 license.
