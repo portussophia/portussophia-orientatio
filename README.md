@@ -17,7 +17,7 @@ The current published materials comprise *differently standing sources*: BIOS v1
 1. [ORIENT v1.7 — candidate](orientation/ORIENT.md)
 2. [PROV v0.4-draft r7 — public working draft](provenance/PS-PROV-001.md)
 3. [BIOS v1.9-draft r9 — working draft](structura/PS-BIOS-001.md)
-4. [VERN — internal v0.14; non-canonical candidate](orientation/VERN.md). The Drive filename says `VERN_v0_15.md` while its content declares version 0.14. This difference is recorded, not silently reconciled.
+4. [VERN v0.15 — non-canonical candidate](orientation/VERN.md). Founder-directed metadata correction aligns the public GitHub `version:` field with the Drive filename `VERN_v0_15.md`; the v0.14 revision account is retained in the document body. The Drive source still declares v0.14 and has not been modified here. No substantive v0.15 revision is claimed.
 5. [PERM v1.4 — candidate](orientation/PERM.md)
 6. [ORI v1.4 — candidate](orientation/ORI.md)
 7. [METHOD v1.4 — candidate](orientation/METHOD.md) — source text from a native Google Doc; BOM and CRLF line endings normalized for publication. Not claimed byte-identical.

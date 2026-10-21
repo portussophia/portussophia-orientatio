@@ -22,7 +22,7 @@ This page makes the eight source documents available **in full, in their declare
 1. [ORIENT](#orient) — v1.7 · candidate; Orientation manifest.
 2. [PROV](#prov) — v0.4-draft r7 · public working draft; Provenance.
 3. [BIOS](#bios) — v1.9-draft r9 · working draft; Declared interface.
-4. [VERN](#vern) — internally v0.14 · non-canonical candidate; Integrated vernacular.
+4. [VERN](#vern) — v0.15 (metadata alignment) · non-canonical candidate; Integrated vernacular.
 5. [PERM](#perm) — v1.4 · candidate; Permission.
 6. [ORI](#ori) — v1.4 · candidate; Observational restraint.
 7. [METHOD](#method) — v1.4 · candidate; Method.
@@ -32,7 +32,7 @@ This page makes the eight source documents available **in full, in their declare
 
 **Orientation reception ≠ agent integration.** The Founder will provide the integration guide **separately**, when he chooses. Nothing on this page supplies or reconstructs it. This site cannot verify that an agent read the entire set: where a page reader truncates output, follow individual source links, preserve unreceived remainder, and do not claim completion.
 
-**Source-local note:** VERN is labeled v0_15 in the Drive filename but declares v0.14 internally; that discrepancy is not silently corrected. METHOD was sourced from a Google Doc and normalized as text for Markdown. The source files retain their respective copyright/licensing/standing declarations.
+**Source-local note:** VERN's public GitHub version declaration has been corrected to **v0.15** to match the Founder-designated Drive filename. This is a metadata alignment only; the v0.14 revision account in the body remains historical, and the Drive copy has not been changed. METHOD was sourced from a Google Doc and normalized as text for Markdown. Each file retains its source-specific copyright, licensing, and standing.
 
 
 ---
@@ -89,7 +89,7 @@ This page makes the eight source documents available **in full, in their declare
 
 ## 4. VERN — Integrated vernacular
 
-**Source standing:** internally v0.14 · non-canonical candidate. [Full source page](/orientation/VERN/) · [GitHub Markdown](https://github.com/portussophia/portussophia-orientatio/blob/main/orientation/VERN.md)
+**Source standing:** v0.15 (metadata alignment) · non-canonical candidate. [Full source page](/orientation/VERN/) · [GitHub Markdown](https://github.com/portussophia/portussophia-orientatio/blob/main/orientation/VERN.md)
 
 {% assign vern_file = site.pages | where: "url", "/orientation/VERN/" | first %}
 {% if vern_file %}

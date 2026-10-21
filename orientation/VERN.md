@@ -1,7 +1,7 @@
 ---
 identifier: PS-VERN-001
 title: Integrated PortusSophia Vernacular
-version: 0.14
+version: 0.15
 date: 2026-08-31
 programme: PortusSophia™
 founder_architect: James Roy Dennis
