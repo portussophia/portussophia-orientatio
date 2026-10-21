@@ -24,6 +24,14 @@ permalink: /
 
 ---
 
+<h2 id="provenance">Provenance — PROV</h2>
+
+**PS-PROV-001 — Provenance:** [Read the current Figshare-matched working draft, v0.4-draft r7 (2026-10-03)](/provenance/PS-PROV-001/).
+
+PROV carries attributable history, not an authority, prerequisite, or automatic claim of present standing. This is a **public working draft**, with [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) declared for this particular document. The [single Markdown source in GitHub](https://github.com/portussophia/portussophia-orientatio/blob/main/provenance/PS-PROV-001.md) is the source for the rendered page.
+
+---
+
 <h2 id="orient-an-agent">Orient an agent</h2>
 
 The following prompt may be offered to an agent as an invitation to establish the declared orientation before proceeding:

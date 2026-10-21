@@ -50,3 +50,13 @@ defaults:
       eyebrow: "PortusStructura™ · Working Orientation"
       intro: "PS-BIOS-001 v1.9-draft r9 (2026-10-03) — Figshare working draft; standing preserved."
       description: "PS-BIOS-001 — The Declared Interface. Working draft v1.9 r9 by James Roy Dennis, PortusSophia, LLC; document-specific CC BY 4.0."
+
+  - scope:
+      path: "provenance/PS-PROV-001.md"
+      type: "pages"
+    values:
+      layout: shoreline-masthead
+      permalink: /provenance/PS-PROV-001/
+      eyebrow: "PortusSophia™ · Provenance · Public working draft"
+      intro: "PS-PROV-001 v0.4-draft r7 (2026-10-03) — attributed history, not a source of authority."
+      description: "PS-PROV-001 — Provenance, by James Roy Dennis; working-draft status and document-specific CC BY 4.0 preserved."

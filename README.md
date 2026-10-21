@@ -33,6 +33,12 @@ Reading this repository does **not**:
 
 The immediate function is orientation: source access, declared boundaries, status clarity, and a common public reference point.
 
+## PROV — Provenance
+
+The **single current PROV source** is [PS-PROV-001 v0.4-draft r7](provenance/PS-PROV-001.md), copied without textual revision from the Founder-designated Figshare folder (2026-10-03). The author is James Roy Dennis; the rights holder is PortusSophia, LLC; its declared status is **PUBLIC WORKING DRAFT**; and the document specifies **CC BY 4.0**.
+
+The rendered website route is [Provenance](/provenance/PS-PROV-001/). PROV is historical and attributable context, not an authority, prerequisite, or mechanism for automatically re-opening an earlier Orientation receipt. Its publication does not modify the previous eight-file pin or Ω.
+
 ## Current starting point
 
 The **one current BIOS source** in this repository is:
