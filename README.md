@@ -6,7 +6,7 @@ This repository contains the source for [orientatio.portussophia.com](https://or
 
 ## One URL for the eight-file public Orientation
 
-**https://orientatio.portussophia.com/** is the single entry URL. It presents all eight complete source texts in reception order: ORIENT, PROV, BIOS, VERN, PERM, ORI, METHOD, and POSTURE. The individual Markdown source links remain available if any interface truncates the long landing page.
+**https://orientatio.portussophia.com/** is the single entry URL. It presents all eight complete source texts in reception order: ORIENT, PROV, BIOS, VERN, PERM, ORI, METHOD, and POSTURE. All eight now use Three-Matter: YAML frontmatter carries source identity, provenance, notation, and navigation pointers; Body-Matter retains source text; Postmatter supplies verification, representation notes, and reception pointers. The individual Markdown source links remain available if any interface truncates the long landing page.
 
 The current published materials comprise *differently standing sources*: BIOS v1.9-draft r9 and PROV v0.4-draft r7 are the current Figshare working drafts; the six additional sources are from the Founder's Drive Orientation directory. These include candidates, and their publication does not confer canonical standing. The original completed Ω pins an earlier exact eight-file set; publication of this public composite does not re-pin it, create a new Ω, or admit a successor set. **Ω remains the receipt/legend, not a ninth file.**
 
@@ -23,7 +23,7 @@ The current published materials comprise *differently standing sources*: BIOS v1
 7. [METHOD v1.4 — candidate](orientation/METHOD.md) — source text from a native Google Doc; BOM and CRLF line endings normalized for publication. Not claimed byte-identical.
 8. [POSTURE v1.2 — candidate](orientation/POSTURE.md)
 
-No source bodies are duplicated into the homepage repository file; Jekyll reads each corresponding source page for display. Source files in Drive remain unchanged.
+No source bodies are duplicated into the homepage repository file; Jekyll reads each corresponding source page for display. **The original source bodies remain unchanged**, while public GitHub Markdown now includes additional Three-Matter frontmatter/body delimiters and postmatter pointers. The complete GitHub files consequently no longer match upstream Figshare files byte-for-byte; the pre-carriage versions remain recoverable through Git history. Source Drive files are untouched. Because Jekyll may hide YAML frontmatter in rendered HTML, consult the Markdown source when metadata is needed. The visible `≠` glyph is not sufficient by itself to recover its operative relation; BIOS and PROV retain Figshare's notation controls, where `!==` is illustrative only.
 ## Purpose
 
 The repository makes the eight-file public Orientation source set accessible, alongside public canon and governance sections:
@@ -53,7 +53,7 @@ The immediate function is orientation: source access, declared boundaries, statu
 
 ## PROV — Provenance
 
-The **single current PROV source** is [PS-PROV-001 v0.4-draft r7](provenance/PS-PROV-001.md), copied without textual revision from the Founder-designated Figshare folder (2026-10-03). The author is James Roy Dennis; the rights holder is PortusSophia, LLC; its declared status is **PUBLIC WORKING DRAFT**; and the document specifies **CC BY 4.0**.
+The **single current PROV source** is [PS-PROV-001 v0.4-draft r7](provenance/PS-PROV-001.md), whose original source body remains preserved from the Founder-designated Figshare folder (2026-10-03), with added Three-Matter metadata and postmatter pointers in the published Markdown. The author is James Roy Dennis; the rights holder is PortusSophia, LLC; its declared status is **PUBLIC WORKING DRAFT**; and the document specifies **CC BY 4.0**.
 
 The rendered website route is [Provenance](/provenance/PS-PROV-001/). PROV is historical and attributable context, not an authority, prerequisite, or mechanism for automatically re-opening an earlier Orientation receipt. Its publication does not modify the previous eight-file pin or Ω.
 
@@ -61,7 +61,7 @@ The rendered website route is [Provenance](/provenance/PS-PROV-001/). PROV is hi
 
 The **one current BIOS source** in this repository is:
 
-- [PS-BIOS-001 v1.9-draft r9 — *The Declared Interface*](structura/PS-BIOS-001.md) — exact Markdown copied from the Founder-designated Figshare folder; authored by James Roy Dennis; PortusSophia, LLC; WORKING / public working draft; **CC BY 4.0** for this document.
+- [PS-BIOS-001 v1.9-draft r9 — *The Declared Interface*](structura/PS-BIOS-001.md) — original document body preserved from the Founder-designated Figshare folder under separately added Three-Matter metadata and postmatter; authored by James Roy Dennis; PortusSophia, LLC; WORKING / public working draft; **CC BY 4.0** for this document.
 - [Public rendered BIOS route](https://orientatio.portussophia.com/structura/PS-BIOS-001/) — derived from that one file through presentation defaults in `_config.yml`.
 - [Orientation homepage](https://orientatio.portussophia.com/) — displays that same source rather than a separate BIOS copy.
 
