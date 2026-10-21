@@ -9,8 +9,10 @@ permalink: /terms/
 
 # Terms of Use
 
-**Effective date:** July 24, 2026  
-**Version:** 0.1
+**Effective date:** October 21, 2026  
+**Version:** 0.2  
+**Original terms effective:** July 24, 2026  
+**Revision scope:** Clarifies source-specific licensing and Three-Matter additions; retains the existing Site rights posture.
 
 These Terms of Use govern access to and use of **orientatio.portussophia.com** and its associated public repository (together, the **Site**).
 
@@ -30,7 +32,7 @@ Publication or availability through the Site does not alter a document's declare
 
 A document identified as canonical, governance, draft, preliminary, archival, superseded, or otherwise qualified retains that standing. Access does not collapse those distinctions.
 
-Where a file, publication, archival deposit, or linked resource states separate or more specific terms, those terms govern that material to the extent applicable.
+Where a file, publication, archival deposit, or linked resource states separate or more specific terms, those terms govern that material to the extent applicable. In particular, original BIOS and PROV source works bearing CC BY 4.0 remain governed by that existing grant for the licensed material despite their republication or source-grounded display here.
 
 ## 3. Orientation does not confer authority
 
@@ -52,7 +54,11 @@ An AI system that reads the Site does not thereby become an authorized PortusSop
 
 Use of Site materials is governed by the applicable [Rights and Use](/RIGHTS.md) statement and [Limited Public Permissions](/LICENSE.md), which are incorporated into these Terms by reference.
 
-Unless expressly stated otherwise, all original Site content, names, marks, designs, canonical materials, governance materials, and related works are owned by PortusSophia, LLC or used with permission. No implied license is granted.
+Unless expressly stated otherwise, the Site's original presentation, design, governance, protectable Three-Matter additions, pointer/verification layers, and other material are owned by PortusSophia, LLC or used with permission and remain under the Site's existing limited-public-permissions posture. No implied license is granted.
+
+**Separate CC BY 4.0 source grants.** The original **PS-BIOS-001 v1.9-draft r9** and **PS-PROV-001 v0.4-draft r7** source works from the Founder-designated `FIGSHARE` working folder expressly declare CC BY 4.0. Their previously granted CC rights are not revoked, narrowed, or burdened by the Site's default terms, including restrictions on substantial republication, commercial use, or downstream handling, insofar as those uses are licensed by CC BY 4.0. Those source grants are separate from the Site-specific editorial and Three-Matter additions, to the extent separately protectable. The other six Orientation members are not granted CC BY licensing merely by being presented alongside BIOS and PROV.
+
+These provisions distinguish **copyright permissions from attribution, document standing, and institutional authorization**. Neither CC BY 4.0 nor Site access grants PortusSophia™ trademark, endorsement, representation, stewardship, or canonical authority.
 
 PortusSophia™ is a claimed trademark of PortusSophia, LLC. Use of a name or mark must not imply endorsement, certification, affiliation, stewardship, or authority.
 
@@ -66,7 +72,7 @@ Subject to the applicable rights and license statements, visitors may:
 - quote brief excerpts where permitted by law and the governing terms of the cited work; and
 - provide the public Site URL or public materials to an AI language model for transient, bounded source review or orientation.
 
-These permissions do not authorize substantial republication, commercial exploitation, persistent incorporation into a model or dataset, removal of standing or provenance notices, or presentation of an AI-generated account as an authorized PortusSophia determination.
+These Site-specific permissions do not authorize substantial republication, commercial exploitation, persistent incorporation into a model or dataset, removal of standing or provenance notices, or presentation of an AI-generated account as an authorized PortusSophia determination **except to the extent that a separate source license or applicable law permits a particular copyright use**. In particular, these Site restrictions do not override rights licensed under CC BY 4.0 for the original BIOS and PROV source material. Copyright permission does not confer agency or authority.
 
 ## 6. Acceptable use
 

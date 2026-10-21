@@ -4,6 +4,23 @@ Copyright © 2026 PortusSophia, LLC. All rights reserved.
 
 This file states limited permissions specific to the public orientation repository and website. The default repository rights and restrictions are stated in [`RIGHTS.md`](RIGHTS.md).
 
+## License scope and precedence
+
+The **existing PortusSophia, LLC repository permissions and restrictions** remain the default for this Site and its own materials, including the website's design, arrangement, navigation, original editorial additions, and independently protectable Three-Matter carriage metadata and pointer/verification additions, unless different rights are expressly declared.
+
+Two source works already bear **Creative Commons Attribution 4.0 International (CC BY 4.0)** declarations in their Founder-designated `FIGSHARE` working-draft source records:
+
+- **PS-BIOS-001 — The Declared Interface, v1.9-draft r9** (original Figshare-folder source).
+- **PS-PROV-001 — Provenance, v0.4-draft r7** (original Figshare-folder source).
+
+Those pre-existing CC BY 4.0 grants are **not revoked, narrowed, or made conditional on this Site's more restrictive repository terms** by display, inclusion, or adaptation here. Reproduction, adaptation, distribution, and commercial use of the CC-licensed source works remain available under the conditions of CC BY 4.0, including required attribution and change indication. See [the CC BY 4.0 license](https://creativecommons.org/licenses/by/4.0/legalcode.en). The source-declared CC metadata is retained for provenance, not as a new CC grant over every surrounding Site contribution.
+
+**Three-Matter scope:** Where separately protectable, additional Site-specific YAML carriage fields, reception pointers, editorial framing, and verification notes added after the Figshare working drafts are published under this repository's default terms, **not automatically relicensed CC BY 4.0**. This reservation applies to those additional contributions only; it does not restrict anyone's CC BY rights in the underlying licensed texts or portions. Factual pointers and material outside copyright protection are not converted into protected works by this notice.
+
+The other **six Orientation members** retain this repository's default permissions except where their own source-specific terms or applicable law provide otherwise. This clarification does not grant them CC BY licensing.
+
+The Site's terms also do not confer rights in the **PortusSophia™ names or marks**; CC BY 4.0 does not grant trademark rights. Copyright permission does not confer canonical standing, stewardship, endorsement, or representation.
+
 ## Purpose
 
 This repository contains the source for `orientatio.portussophia.com`.
@@ -32,7 +49,7 @@ Permitted agent use remains bounded by the following distinctions:
 
 ## Restrictions
 
-You may not:
+Except to the extent the uses are allowed by an applicable source-specific license (including CC BY 4.0 for the original BIOS and PROV works), you may not:
 
 - reproduce substantial portions of the repository or website as your own;
 - republish substantial portions without written permission;
@@ -45,7 +62,7 @@ You may not:
 
 ## Separately published works
 
-Books, papers, Zenodo records, SSRN papers, and other archival publications referenced by this site remain governed by their respective publication terms. Nothing in this repository supersedes those terms.
+Books, papers, Zenodo records, SSRN papers, the identified Figshare-working source texts, and other separately licensed works remain governed by their applicable publication terms. Nothing in this repository supersedes or restricts existing grants for those licensed materials.
 
 ## No authority and no warranty
 

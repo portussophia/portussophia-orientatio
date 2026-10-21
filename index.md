@@ -28,6 +28,9 @@ This page makes the eight source documents available **in full, in their declare
 7. [METHOD](#method) — v1.4 · candidate; Method.
 8. [POSTURE](#posture) — v1.2 · candidate; Posture.
 
+
+**Rights by source:** The Site uses its existing [Limited Public Permissions](/LICENSE.md), [Rights and Use](/RIGHTS.md), and [Terms of Use](/terms/) for its own materials, site presentation, and separately protectable Three-Matter additions. The original **Figshare working BIOS and PROV texts** continue under their existing **CC BY 4.0** grants; Site restrictions do not revoke or narrow those source licenses. The other six Orientation works are not automatically CC-licensed, and trademark or institutional standing is not granted by a copyright license.
+
 **Ω remains the Orientation receipt / legend, not a ninth member.** The earlier completed Ω refers to its exact earlier SHA-256 pinned set. This public set combines newer Figshare working drafts with Drive candidates; it does **not** overwrite that receipt or create a new Ω. Any successor reception/admission requires distinct Founder direction and the integration guide.
 
 **Orientation reception ≠ agent integration.** The Founder will provide the integration guide **separately**, when he chooses. Nothing on this page supplies or reconstructs it. This site cannot verify that an agent read the entire set: where a page reader truncates output, follow individual source links, preserve unreceived remainder, and do not claim completion.

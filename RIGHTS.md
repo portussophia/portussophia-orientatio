@@ -1,10 +1,18 @@
 # Rights and Use
 
-Unless a file or directory expressly states otherwise, no open-source license or general license is granted for the content of this repository.
+Unless a file, portion, or independently licensed source work expressly provides otherwise, no open-source license or general license is granted for this repository's own material. The Site's default rights do not supersede pre-existing CC BY 4.0 permissions for the original BIOS and PROV texts.
 
 Copyright © 2026 PortusSophia, LLC. All rights reserved.
 
 The original textual, visual, brand, canonical, governance, technical, and provenance materials published in this repository are owned by PortusSophia, LLC and are protected by copyright and other applicable intellectual-property laws.
+
+## Licensed source texts and Site-specific additions
+
+The repository preserves the original **PS-BIOS-001 v1.9-draft r9** and **PS-PROV-001 v0.4-draft r7** working-source texts from the Founder-designated `FIGSHARE` Drive subfolder. Those source works declare **CC BY 4.0**. The license remains available to recipients of the licensed material, including when the material is accessed through this Site. **This repository's restrictions do not reduce rights already granted under CC BY 4.0** for those works.
+
+The repository retains its previously declared **limited public permissions / all-rights-reserved default** for Site presentation, design, independently protectable Three-Matter carriage and pointer/verification additions, governance and other original material, and the **six other Orientation documents**, except to the extent a specific source grant or applicable law provides otherwise. Later metadata and editorial additions are distinguished from the original CC-licensed source texts; this separate treatment must not be construed as imposing new restrictions on CC-licensed material.
+
+See [`LICENSE.md`](LICENSE.md) for the scope of the two original CC-licensed works, the additional public-carriage layers, and the retained rights posture.
 
 ## Public access and bounded agent use
 
@@ -22,7 +30,7 @@ That last permission allows a reader to ask an agent to read the available PS-BI
 
 ## Restrictions
 
-Public access does not otherwise grant permission to:
+Except to the extent separately permitted under CC BY 4.0, another source-specific grant, or applicable law, public access does not otherwise grant permission to:
 
 - copy, redistribute, or republish substantial portions of repository content;
 - sublicense, sell, or commercially exploit repository materials;
@@ -34,7 +42,7 @@ Public access does not otherwise grant permission to:
 
 ## Separate materials
 
-A file or directory may declare narrower or different terms. Those terms govern that material to the extent they are valid and applicable.
+A file, document, or independently licensed portion may declare different rights. The terms of that material govern its licensed scope to the extent applicable; no repository-wide provision is intended to add restrictions that defeat an existing CC BY 4.0 grant.
 
 Books, papers, archival deposits, and third-party materials remain subject to the rights and terms identified by their respective rights holders and publication venues.
 

@@ -67,7 +67,9 @@ The **one current BIOS source** in this repository is:
 
 **Historical provenance (not a second active BIOS):** [Zenodo v1.1 PDF](https://zenodo.org/records/21229870/files/PS-BIOS-001_TheDeclaredInterface_v1.1_SINGLE_HERE_AND_NOW.pdf?download=1) and [deposit record](https://zenodo.org/records/21229870).
 
-Document-specific licensing in the current BIOS applies to that work; other repository materials retain their own declared rights and terms. Changes to the public BIOS do not retroactively re-pin any previously completed Orientation receipt.
+**Rights clarification (2026-10-21):** This GitHub repository and website retain their original limited public permissions in [LICENSE.md](LICENSE.md), [RIGHTS.md](RIGHTS.md), and [TERMS.md](TERMS.md). The original Figshare-folder **BIOS and PROV working source texts** already grant **CC BY 4.0**; those source grants remain available and are not narrowed by the Site's default. Separately protectable **Three-Matter metadata, site-specific pointers, and verification/editorial additions** are carried under the repository's existing default terms, not automatically CC BY. The other six Orientation documents are not relicensed to CC by this publication. Trademark and institutional-standing restrictions remain distinct.
+
+Changes to the public BIOS do not retroactively re-pin any previously completed Orientation receipt.
 
 Additional canon and governance materials may be added only through separately reviewed repository changes.
 
