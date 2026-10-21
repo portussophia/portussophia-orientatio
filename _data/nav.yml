@@ -6,7 +6,7 @@ primary:
     url: /#ps-bios-001
 
   - label: PROV — Provenance
-    url: /provenance/PS-PROV-001/
+    url: /#provenance
 
   - label: Across Regimes
     url: /structura/PS-BIOS-001/across-regimes/

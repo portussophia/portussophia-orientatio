@@ -4,6 +4,14 @@
 
 This repository contains the source for [orientatio.portussophia.com](https://orientatio.portussophia.com).
 
+## One URL for public source reception
+
+The **homepage is the one public entry URL** for the two currently published working sources: BIOS v1.9-draft r9 and PROV v0.4-draft r7. The homepage renders both documents in full from their individual source files. Readers and agents can start from the one URL; the separate file links are available when an interface truncates the long page.
+
+This public pair is **not** the complete pinned eight-file Orientation set or a new Ω receipt. It does not enact an integration procedure. **The Founder supplies the integration guide separately**, when and to whom he chooses. Publication of one link does not confer authority, complete integration, or grant permission to infer any withheld guidance.
+
+The sole text sources remain `structura/PS-BIOS-001.md` and `provenance/PS-PROV-001.md`; source bodies are not duplicated in `index.md`.
+
 The site is being established as a public, versioned point of entry through which a reader or an AI language model may encounter PortusSophia™ from its declared orientation rather than from inference, summary, or self-authorizing interpretation.
 
 ## Purpose
