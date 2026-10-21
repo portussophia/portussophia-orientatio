@@ -20,7 +20,38 @@ se_config_carrier:
   drive_id: 1ME_p0O7eYulz59nNb06laHBPuf34pnqb
   sha256: 3dd3d2ad14b73efa00ebf1e11c624181f0afcfcfc4e75c0892252d9517f6cd79
 goal: Resolve the exact active Orientation set, preserve its form, and open only the next earned gate.
+three_matter_carriage:
+  profile: public_orientation_document
+  edition: "2026-10-21"
+  front: Source identity, standing, provenance, notation and pointers
+  body: Original source content retained verbatim
+  post: Verification, notation locality and source pointers
+  scope: Public document carriage; not an agent-carrier integration or new Orientation receipt
+source_carriage:
+  upstream_folder: "Orientation"
+  upstream_filename: "ORIENT_v1_7-CANDIDATE.md"
+  upstream_drive_url: "https://drive.google.com/file/d/1MBhYi13RIatCDaPA-dlBPBrlJEtbMWsh/view"
+  public_precarriage_snapshot: "https://github.com/portussophia/portussophia-orientatio/blob/0a8ac694370e6ff005f1b86a94f64e483557541d/orientation/ORIENT.md"
+  public_precarriage_blob_sha: "402c2cf77f076b09454e273594974848c502615e"
+  source_standing_note: "candidate"
+  substantive_source_body_unchanged: true
+pointers:
+  reception_position: 1
+  reception_total: 8
+  previous: null
+  next: "https://orientatio.portussophia.com/provenance/PS-PROV-001/"
+  manifest: "https://orientatio.portussophia.com/orientation/ORIENT/"
+  bios_notation: "https://orientatio.portussophia.com/structura/PS-BIOS-001/"
+  prov_notation: "https://orientatio.portussophia.com/provenance/PS-PROV-001/"
+  integration_guide: null
+notation_carriage:
+  glyph: "≠"
+  relation: Operative relation is read from source-local proposition, not recovered solely from glyph
+  example_nonoperator: The !== illustration in BIOS and PROV is not adopted PortusSophia syntax
 ---
+
+## Body-Matter — Source Text
+
 
 # ORIENT
 
@@ -95,3 +126,23 @@ Receive only the direct active files named here.
 ## v1.7 — Relational Language Refinement (2026-10-07)
 
 This successor preserves the predecessor and refines one local occurrence of “burden” in accordance with the bounded Orientation lexical inquiry. Reception is not equated with active work; no universal vocabulary prohibition is established. The active Ω-pinned Orientation set is not modified or re-admitted by this candidate.
+
+
+---
+
+## Postmatter — Verification, Notation, and Pointers
+
+**Orientation member 1 of 8 — ORIENT.** This added carriage is not a successor Ω or a modification of the completed set pin.
+
+- **Published source:** [GitHub Markdown](https://github.com/portussophia/portussophia-orientatio/blob/main/orientation/ORIENT.md) · [rendered page](https://orientatio.portussophia.com/orientation/ORIENT/).
+- **Origin:** `ORIENT_v1_7-CANDIDATE.md` (Orientation), [Drive file](https://drive.google.com/file/d/1MBhYi13RIatCDaPA-dlBPBrlJEtbMWsh/view).
+- **Source before this wrapper:** [historical GitHub version](https://github.com/portussophia/portussophia-orientatio/blob/0a8ac694370e6ff005f1b86a94f64e483557541d/orientation/ORIENT.md) · blob `402c2cf77f076b09454e273594974848c502615e`.
+- **Previous:** none — ORIENT is the entrance.
+- **Next:** [PROV](https://orientatio.portussophia.com/provenance/PS-PROV-001/).
+- **Manifest:** [ORIENT](https://orientatio.portussophia.com/orientation/ORIENT/). **Integration:** guide provided separately by the Founder.
+
+**Notation and representation:** The glyph `≠` is a visible representation of locally stated distinction, not a unique recovery of the operative relation. Read the surrounding proposition. The `!==` example in the Figshare [BIOS](https://orientatio.portussophia.com/structura/PS-BIOS-001/) and [PROV](https://orientatio.portussophia.com/provenance/PS-PROV-001/) is illustrative only, not adopted syntax.
+
+**Source handling:** The original Orientation Drive body remains intact; this public Three-Matter carriage neither creates a new source version nor grants additional standing.
+
+**Verification:** A pointer is not proof of reception, authority or integration. Where stated, `VERIFIABILITY ≠ UNRESTRICTED ACCESS` remains in force.

@@ -15,7 +15,38 @@ rights_holder: PortusSophia, LLC
 license: Creative Commons Attribution 4.0 International (CC BY 4.0)
 license_url: https://creativecommons.org/licenses/by/4.0/
 status: PUBLIC WORKING DRAFT
+three_matter_carriage:
+  profile: public_orientation_document
+  edition: "2026-10-21"
+  front: Source identity, standing, provenance, notation and pointers
+  body: Original source content retained verbatim
+  post: Verification, notation locality and source pointers
+  scope: Public document carriage; not an agent-carrier integration or new Orientation receipt
+source_carriage:
+  upstream_folder: "Orientation/FIGSHARE"
+  upstream_filename: "PS-PROV-001_v0_4-draft_r7.md"
+  upstream_drive_url: "https://drive.google.com/file/d/1yIan-rhsbKZghL6cFzxiU59gN9dMHu74/view"
+  public_precarriage_snapshot: "https://github.com/portussophia/portussophia-orientatio/blob/0a8ac694370e6ff005f1b86a94f64e483557541d/provenance/PS-PROV-001.md"
+  public_precarriage_blob_sha: "60de8efbb3ace30b3d040ecc3c52bc220fd39a2f"
+  source_standing_note: "public working draft"
+  substantive_source_body_unchanged: true
+pointers:
+  reception_position: 2
+  reception_total: 8
+  previous: "https://orientatio.portussophia.com/orientation/ORIENT/"
+  next: "https://orientatio.portussophia.com/structura/PS-BIOS-001/"
+  manifest: "https://orientatio.portussophia.com/orientation/ORIENT/"
+  bios_notation: "https://orientatio.portussophia.com/structura/PS-BIOS-001/"
+  prov_notation: "https://orientatio.portussophia.com/provenance/PS-PROV-001/"
+  integration_guide: null
+notation_carriage:
+  glyph: "≠"
+  relation: Operative relation is read from source-local proposition, not recovered solely from glyph
+  example_nonoperator: The !== illustration in BIOS and PROV is not adopted PortusSophia syntax
 ---
+
+## Body-Matter — Source Text
+
 
 # PROV
 
@@ -1624,3 +1655,23 @@ Not finished.
 
 `VERIFIABILITY ≠ UNRESTRICTED ACCESS`
 
+
+
+---
+
+### Three-Matter — Public Pointer Register
+
+**Orientation member 2 of 8 — PROV.** This added carriage is not a successor Ω or a modification of the completed set pin.
+
+- **Published source:** [GitHub Markdown](https://github.com/portussophia/portussophia-orientatio/blob/main/provenance/PS-PROV-001.md) · [rendered page](https://orientatio.portussophia.com/provenance/PS-PROV-001/).
+- **Origin:** `PS-PROV-001_v0_4-draft_r7.md` (Orientation/FIGSHARE), [Drive file](https://drive.google.com/file/d/1yIan-rhsbKZghL6cFzxiU59gN9dMHu74/view).
+- **Source before this wrapper:** [historical GitHub version](https://github.com/portussophia/portussophia-orientatio/blob/0a8ac694370e6ff005f1b86a94f64e483557541d/provenance/PS-PROV-001.md) · blob `60de8efbb3ace30b3d040ecc3c52bc220fd39a2f`.
+- **Previous:** [ORIENT](https://orientatio.portussophia.com/orientation/ORIENT/).
+- **Next:** [BIOS](https://orientatio.portussophia.com/structura/PS-BIOS-001/).
+- **Manifest:** [ORIENT](https://orientatio.portussophia.com/orientation/ORIENT/). **Integration:** guide provided separately by the Founder.
+
+**Notation and representation:** The glyph `≠` is a visible representation of locally stated distinction, not a unique recovery of the operative relation. Read the surrounding proposition. The `!==` example in the Figshare [BIOS](https://orientatio.portussophia.com/structura/PS-BIOS-001/) and [PROV](https://orientatio.portussophia.com/provenance/PS-PROV-001/) is illustrative only, not adopted syntax.
+
+**Figshare source handling:** The original working-draft body, Notation and Representation Control, and existing verification postmatter remain as received from the Founder-designated Drive `FIGSHARE` folder; declared licensing and standing are unchanged. The folder label does not itself verify an external Figshare DOI.
+
+**Verification:** A pointer is not proof of reception, authority or integration. Where stated, `VERIFIABILITY ≠ UNRESTRICTED ACCESS` remains in force.

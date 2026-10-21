@@ -10,7 +10,38 @@ revision_note: >
   governing Orientation source is actually encountered. Unrecognized or unresolved
   candidate conditions remain unresolved rather than being promoted into gates.
 goal: Receive the active Orientation set faithfully, complete the handoff into Training, and reopen Orientation only where present evidence earns consideration.
+three_matter_carriage:
+  profile: public_orientation_document
+  edition: "2026-10-21"
+  front: Source identity, standing, provenance, notation and pointers
+  body: Original source content retained verbatim
+  post: Verification, notation locality and source pointers
+  scope: Public document carriage; not an agent-carrier integration or new Orientation receipt
+source_carriage:
+  upstream_folder: "Orientation (Google Doc text normalized)"
+  upstream_filename: "METHOD_v1_4-CANDIDATE.md"
+  upstream_drive_url: "https://drive.google.com/file/d/1x9Daa3jYMJJFNBhXB56g2kQYrwF9qEragPjYNJf-2vM/view"
+  public_precarriage_snapshot: "https://github.com/portussophia/portussophia-orientatio/blob/0a8ac694370e6ff005f1b86a94f64e483557541d/orientation/METHOD.md"
+  public_precarriage_blob_sha: "77e7a6ca487add7aea18b9fa843291c6e34bd288"
+  source_standing_note: "candidate"
+  substantive_source_body_unchanged: true
+pointers:
+  reception_position: 7
+  reception_total: 8
+  previous: "https://orientatio.portussophia.com/orientation/ORI/"
+  next: "https://orientatio.portussophia.com/orientation/POSTURE/"
+  manifest: "https://orientatio.portussophia.com/orientation/ORIENT/"
+  bios_notation: "https://orientatio.portussophia.com/structura/PS-BIOS-001/"
+  prov_notation: "https://orientatio.portussophia.com/provenance/PS-PROV-001/"
+  integration_guide: null
+notation_carriage:
+  glyph: "≠"
+  relation: Operative relation is read from source-local proposition, not recovered solely from glyph
+  example_nonoperator: The !== illustration in BIOS and PROV is not adopted PortusSophia syntax
 ---
+
+## Body-Matter — Source Text
+
 
 
 # METHOD
@@ -82,3 +113,22 @@ PHENOMENON FIRST
 DISTINCTION
 →
 TERM OR GATE, IF EARNED
+
+---
+
+## Postmatter — Verification, Notation, and Pointers
+
+**Orientation member 7 of 8 — METHOD.** This added carriage is not a successor Ω or a modification of the completed set pin.
+
+- **Published source:** [GitHub Markdown](https://github.com/portussophia/portussophia-orientatio/blob/main/orientation/METHOD.md) · [rendered page](https://orientatio.portussophia.com/orientation/METHOD/).
+- **Origin:** `METHOD_v1_4-CANDIDATE.md` (Orientation (Google Doc text normalized)), [Drive file](https://drive.google.com/file/d/1x9Daa3jYMJJFNBhXB56g2kQYrwF9qEragPjYNJf-2vM/view).
+- **Source before this wrapper:** [historical GitHub version](https://github.com/portussophia/portussophia-orientatio/blob/0a8ac694370e6ff005f1b86a94f64e483557541d/orientation/METHOD.md) · blob `77e7a6ca487add7aea18b9fa843291c6e34bd288`.
+- **Previous:** [ORI](https://orientatio.portussophia.com/orientation/ORI/).
+- **Next:** [POSTURE](https://orientatio.portussophia.com/orientation/POSTURE/).
+- **Manifest:** [ORIENT](https://orientatio.portussophia.com/orientation/ORIENT/). **Integration:** guide provided separately by the Founder.
+
+**Notation and representation:** The glyph `≠` is a visible representation of locally stated distinction, not a unique recovery of the operative relation. Read the surrounding proposition. The `!==` example in the Figshare [BIOS](https://orientatio.portussophia.com/structura/PS-BIOS-001/) and [PROV](https://orientatio.portussophia.com/provenance/PS-PROV-001/) is illustrative only, not adopted syntax.
+
+**Source handling:** METHOD originated as a Google Doc and the previously published Markdown source was text-normalized (BOM/CRLF), not a raw-byte-identical export.
+
+**Verification:** A pointer is not proof of reception, authority or integration. Where stated, `VERIFIABILITY ≠ UNRESTRICTED ACCESS` remains in force.

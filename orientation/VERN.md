@@ -16,7 +16,38 @@ architectural_dependency: null
 revision_note: Preserves the bounded Cross-Terrain Expression Grammar while relocating Flight Plan / Flight Board requirements to Inquiry Context, Setup, and run-specific Flight Plan ownership. Removes any globally bound Flight Board from VERN standing and replaces stale run-local Ω language with completed persistent Ω → SE-CONFIG carry. Prior NOT YET, instrument-capacity, and reception distinctions remain unchanged.
 standing_granted: Preservation and provisional use of the integrated PortusSophia vernacular; typed use of availability, scope, admissibility, establishment, task-disposition, Pretty-𝒜, Non-Exclusion Resolution, compact metadata, receipt-carry language, the distributed-series Constraint Grammar, and bounded Cross-Terrain Expression Grammar; submission of the VERN composition for governed testing
 standing_withheld: Canonical vernacular status; exhaustive linguistic authority; universal prescription; method status; establishment of VERN as a TRI
+three_matter_carriage:
+  profile: public_orientation_document
+  edition: "2026-10-21"
+  front: Source identity, standing, provenance, notation and pointers
+  body: Original source content retained verbatim
+  post: Verification, notation locality and source pointers
+  scope: Public document carriage; not an agent-carrier integration or new Orientation receipt
+source_carriage:
+  upstream_folder: "Orientation"
+  upstream_filename: "VERN_v0_15.md"
+  upstream_drive_url: "https://drive.google.com/file/d/1pHBGJJDuoeuTuKLq1utl-l7x7ffzRNVS/view"
+  public_precarriage_snapshot: "https://github.com/portussophia/portussophia-orientatio/blob/0a8ac694370e6ff005f1b86a94f64e483557541d/orientation/VERN.md"
+  public_precarriage_blob_sha: "83f88513f1d525a9c4d2643ab42618e9a2558c2d"
+  source_standing_note: "non-canonical candidate"
+  substantive_source_body_unchanged: true
+pointers:
+  reception_position: 4
+  reception_total: 8
+  previous: "https://orientatio.portussophia.com/structura/PS-BIOS-001/"
+  next: "https://orientatio.portussophia.com/orientation/PERM/"
+  manifest: "https://orientatio.portussophia.com/orientation/ORIENT/"
+  bios_notation: "https://orientatio.portussophia.com/structura/PS-BIOS-001/"
+  prov_notation: "https://orientatio.portussophia.com/provenance/PS-PROV-001/"
+  integration_guide: null
+notation_carriage:
+  glyph: "≠"
+  relation: Operative relation is read from source-local proposition, not recovered solely from glyph
+  example_nonoperator: The !== illustration in BIOS and PROV is not adopted PortusSophia syntax
 ---
+
+## Body-Matter — Source Text
+
 
 # VERN
 
@@ -1681,3 +1712,23 @@ This revision also replaces stale run-local Ω wording with the completed persis
 
 No prior VERN distinction is otherwise withdrawn.
 
+
+
+---
+
+## Postmatter — Verification, Notation, and Pointers
+
+**Orientation member 4 of 8 — VERN.** This added carriage is not a successor Ω or a modification of the completed set pin.
+
+- **Published source:** [GitHub Markdown](https://github.com/portussophia/portussophia-orientatio/blob/main/orientation/VERN.md) · [rendered page](https://orientatio.portussophia.com/orientation/VERN/).
+- **Origin:** `VERN_v0_15.md` (Orientation), [Drive file](https://drive.google.com/file/d/1pHBGJJDuoeuTuKLq1utl-l7x7ffzRNVS/view).
+- **Source before this wrapper:** [historical GitHub version](https://github.com/portussophia/portussophia-orientatio/blob/0a8ac694370e6ff005f1b86a94f64e483557541d/orientation/VERN.md) · blob `83f88513f1d525a9c4d2643ab42618e9a2558c2d`.
+- **Previous:** [BIOS](https://orientatio.portussophia.com/structura/PS-BIOS-001/).
+- **Next:** [PERM](https://orientatio.portussophia.com/orientation/PERM/).
+- **Manifest:** [ORIENT](https://orientatio.portussophia.com/orientation/ORIENT/). **Integration:** guide provided separately by the Founder.
+
+**Notation and representation:** The glyph `≠` is a visible representation of locally stated distinction, not a unique recovery of the operative relation. Read the surrounding proposition. The `!==` example in the Figshare [BIOS](https://orientatio.portussophia.com/structura/PS-BIOS-001/) and [PROV](https://orientatio.portussophia.com/provenance/PS-PROV-001/) is illustrative only, not adopted syntax.
+
+**Source handling:** VERN's upstream filename says v0.15 but Drive internal YAML says v0.14. The public version field was already aligned to v0.15 at the Founder's request, without making a substantive revision claim; the v0.14 account remains in the body.
+
+**Verification:** A pointer is not proof of reception, authority or integration. Where stated, `VERIFIABILITY ≠ UNRESTRICTED ACCESS` remains in force.
